@@ -1,0 +1,164 @@
+
+
+/* ==========================================================================
+   R  A  D  E  A  N    C  S  S   S  T  Y  L  E
+   ========================================================================= */
+
+/* ==========================================================================
+    L  I  N  K   S  T  Y  L  E
+   ========================================================================== */
+   a:visited {text-decoration: none; color: white;}
+
+/* ==========================================================================
+    W  I  N  D  O  W     S  T  Y  L  E
+   ========================================================================== */
+   body::-webkit-scrollbar {
+    width: .5em;
+}
+
+body::-webkit-scrollbar-track {
+    background-color: rgba(0,0,0,.6);
+	transition: all .2s ease-out;
+}
+body::-webkit-scrollbar-track:hover {
+	transition: all .2s ease-out;
+    background-color: rgba(0,0,0,.2);
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: #00b8d4;
+  outline: 1px solid slategrey;
+}
+/* ==========================================================================
+    I  M  A  G  E    S  T  Y  L  E
+   ========================================================================== */
+   #pinimg { width: 160px; }
+/*#pinimg { border-radius: 200px; border: 8px solid white; background-color: #373737; box-shadow: 0px 0px 14px -3px rgba(0,0,0,1); width: 200px; height: 200px;}*/
+/* ==========================================================================
+    B   O   D   Y   S   T   Y   L   E
+   ========================================================================== */
+   
+   body { cursor: default;
+		-webkit-user-select: none;
+		user-select: none;
+   }
+   #skills {
+       background: url("../img/back/BG4.jpg");
+   }
+
+/* ==========================================================================
+    U    I     E  X  P  E  R  I  E  N  C  E
+   ========================================================================== */
+   #progress { padding-top: 1px; width: 160px; height: 6px; background-color: rgba(220,220,220,0.12);}
+   #progressThumb { width: 1%; height: 4px; background: #fff; border-radius: 2px;}
+
+
+
+
+/* ==========================================================================
+    S  H  A  P  E  S
+========================================================================= */
+/*CREATE A SMALL CIRCLE */
+#sCircle { width: 16px; height: 16px; border-radius: 8px; background: white; margin: 0 auto; }
+/*CREATE A THIN LINE */
+#tLine { width: 2px; height: 180px; background: white; margin: 0 auto;  margin-bottom: -20px;content: '';}
+
+
+
+
+
+
+
+
+
+.grid {
+    background: transparent;
+}
+
+/* clear fix */
+.grid:after {
+    content: '';
+    display: block;
+    clear: both;
+}
+
+/* ---- .grid-item ---- */
+
+.grid-sizer,
+.grid-item {
+    width: 33.333%;
+}
+
+.grid-item {
+    float: left;
+}
+
+.grid-item img {
+    display: block;
+    max-width: 100%;
+}
+
+
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+nav ul a,
+nav .brand-logo {
+    color: #444;
+}
+
+p {
+    line-height: 2rem;
+}
+
+.button-collapse {
+    color: #26a69a;
+}
+
+.parallax-container {
+    min-height: 700px;
+    line-height: 0;
+    height: auto;
+    color: rgba(255,255,255,.9);
+}
+.parallax-container .section {
+    width: 100%;
+    top: 40%;
+}
+
+@media only screen and (max-width : 992px) {
+    .parallax-container .section {
+        position: absolute;
+        top: 0%;
+
+    }
+    #index-banner .section {
+        top: 10%;
+    }
+}
+
+@media only screen and (max-width : 600px) {
+    #index-banner .section {
+        top: 0;
+    }
+}
+
+.text-shadow {
+    text-shadow: 1px 1px 4px black;
+}
+
+.icon-block {
+    padding: 0 15px;
+}
+.icon-block .material-icons {
+    font-size: inherit;
+}
+
+footer.page-footer {
+    margin: 0;
+}
