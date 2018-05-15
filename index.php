@@ -151,7 +151,7 @@
             </div><br>
             <!--  R  O  W     #    02   -->
             <div class="row" data-aos="zoom-in-down">
-            </div><br><br>
+            </div>
             <div class="row center">
                 <div class="col s3" data-aos="zoom-in" data-aos-delay="300" align="left">
                     <img src="img/icon/soft/zb.png" /><h5 class="light">ZBrush</h5><h6>76%</h6>
@@ -172,7 +172,7 @@
             </div><br>
             <!--  R  O  W     #    03   -->
             <div class="row" data-aos="zoom-in-down">
-            </div><br><br>
+            </div>
             <div class="row center">
                 <div class="col s3" data-aos="zoom-in" data-aos-delay="300" align="left">
                     <img src="img/icon/soft/speedtree.png" /><h5 class="light">Speed Tree</h5><h6>76%</h6>
@@ -194,7 +194,7 @@
             </div><br><br>
             <!--  R  O  W     #    04   -->
             <div class="row" data-aos="zoom-in-down">
-            </div><br><br>
+            </div>
             <div class="row center">
                 <div class="col s3" data-aos="zoom-in" data-aos-delay="300" align="left">
                     <img src="img/icon/soft/speedtree.png" /><h5 class="light">Unity</h5><h6>76%</h6>
@@ -215,7 +215,7 @@
 
             </div><br><br>
             <div class="row center" data-aos="zoom-in-down">
-                <h3>Technical</h3>
+                <h3>Programming</h3>
                 <hr style="width: 300px;"><br><br><br>
             </div>
             <div class="row center">
@@ -857,7 +857,9 @@
 
 
     // Animate on scroll
-    AOS.init();
+    AOS.init({
+        once: true
+    });
 
     particlesJS.load('particles-js', 'js/particles.json', function() {
         console.log('callback - particles.js config loaded');

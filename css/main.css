@@ -52,9 +52,6 @@ body::-webkit-scrollbar-thumb {
    #progress { padding-top: 1px; width: 160px; height: 6px; background-color: rgba(220,220,220,0.12);}
    #progressThumb { width: 1%; height: 4px; background: #fff; border-radius: 2px;}
 
-
-
-
 /* ==========================================================================
     S  H  A  P  E  S
 ========================================================================= */
@@ -62,13 +59,6 @@ body::-webkit-scrollbar-thumb {
 #sCircle { width: 16px; height: 16px; border-radius: 8px; background: white; margin: 0 auto; }
 /*CREATE A THIN LINE */
 #tLine { width: 2px; height: 180px; background: white; margin: 0 auto;  margin-bottom: -20px;content: '';}
-
-
-
-
-
-
-
 
 
 .grid {
