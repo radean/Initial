@@ -98,6 +98,8 @@
         <div class="container">
             <div class="row center">
                 <div class="row" data-aos="zoom-in-down">
+                    <h5>A brief information about tool which i use regularly.</h5>
+                    <h7>some of minor tools are not listed.</h7>
                     <h3>Graphics</h3>
                     <hr style="width: 300px;"><br><br><br>
                 </div>
@@ -147,10 +149,10 @@
                     <img src="img/icon/soft/marmoset.png" /><h5 class="light">Marmoset Toolbag</h5><h6>80%</h6>
                     <div id="progress"><div id="progressThumb" data-aos="zoom-in-right" data-aos-delay="500" style="width: 80%;" >&nbsp;</div></div>
                 </div>
-                <div class="col s6 l3" data-aos="zoom-in" data-aos-delay="500" align="left">
-                    <img src="img/icon/soft/Cb.png" /><h5 class="light">Crazy Bump</h5><h6>92%</h6>
-                    <div id="progress"><div id="progressThumb" data-aos="zoom-in-right" data-aos-delay="500" style="width: 92%;">&nbsp;</div></div>
-                </div>
+<!--                <div class="col s6 l3" data-aos="zoom-in" data-aos-delay="500" align="left">-->
+<!--                    <img src="img/icon/soft/Cb.png" /><h5 class="light">Crazy Bump</h5><h6>92%</h6>-->
+<!--                    <div id="progress"><div id="progressThumb" data-aos="zoom-in-right" data-aos-delay="500" style="width: 92%;">&nbsp;</div></div>-->
+<!--                </div>-->
                 <div class="col s6 l3" data-aos="zoom-in" data-aos-delay="700" align="left">
                     <img src="img/icon/soft/Xn.png" /><h5 class="light">XNormal</h5><h6>78%</h6>
                     <div id="progress"><div id="progressThumb" data-aos="zoom-in-right" data-aos-delay="500" style="width: 78%;";>&nbsp;</div></div>
@@ -176,23 +178,23 @@
                     <img src="img/icon/soft/vue.png" /><h5 class="light">Vue.js</h5><h6>60%</h6>
                     <div id="progress"><div id="progressThumb" data-aos="zoom-in-right" data-aos-delay="500" style="width: 60%;" >&nbsp;</div></div>
                 </div>
-                <div class="col s6 l3" data-aos="zoom-in" data-aos-delay="500" align="left">
+                <div class="col s6 l3" data-aos="zoom-in" data-aos-delay="300"  align="left">
                     <img src="img/icon/soft/firebase.png" /><h5 class="light">Firebase</h5><h6>70%</h6>
                     <div id="progress"><div id="progressThumb" data-aos="zoom-in-right" data-aos-delay="500" style="width: 70%;">&nbsp;</div></div>
                 </div>
-                <div class="col s6 l3" data-aos="zoom-in" data-aos-delay="700" align="left">
+                <div class="col s6 l3" data-aos="zoom-in" data-aos-delay="300"  align="left">
                     <img src="img/icon/soft/webpack.png" /><h5 class="light">Webpack</h5><h6>50%</h6>
-                    <div id="progress"><div id="progressThumb" data-aos="zoom-in-right" data-aos-delay="500" style="width: 50%;";>&nbsp;</div></div>
+                    <div id="progress"><div id="progressThumb" data-aos="zoom-in-right" data-aos-delay="500" style="width: 50%;">&nbsp;</div></div>
                 </div>
-                <div class="col s6 l3" data-aos="zoom-in" data-aos-delay="700" align="left">
+                <div class="col s6 l3" data-aos="zoom-in" data-aos-delay="300"  align="left">
                     <img src="img/icon/soft/php.png" /><h5 class="light">PHP</h5><h6>60%</h6>
-                    <div id="progress"><div id="progressThumb" data-aos="zoom-in-right" data-aos-delay="500" style="width: 60%;";>&nbsp;</div></div>
+                    <div id="progress"><div id="progressThumb" data-aos="zoom-in-right" data-aos-delay="500" style="width: 60%;">&nbsp;</div></div>
                 </div>
             </div>
             <div class="row center">
                 <div class="col s6 l3" data-aos="zoom-in" data-aos-delay="700" align="left">
                     <img src="img/icon/soft/html.png" /><h5 class="light">HTML 5</h5><h6>90%</h6>
-                    <div id="progress"><div id="progressThumb" data-aos="zoom-in-right" data-aos-delay="500" style="width: 90%;";>&nbsp;</div></div>
+                    <div id="progress"><div id="progressThumb" data-aos="zoom-in-right" data-aos-delay="500" style="width: 90%;">&nbsp;</div></div>
                 </div>
                 <div class="col s6 l3" data-aos="zoom-in" data-aos-delay="300" align="left">
                     <img src="img/icon/soft/css.png" /><h5 class="light">CSS</h5><h6>80%</h6>
@@ -202,7 +204,7 @@
                     <img src="img/icon/soft/Js.png" /><h5 class="light">Java Script</h5><h6>63%</h6>
                     <div id="progress"><div id="progressThumb" data-aos="zoom-in-right" data-aos-delay="500" style="width: 63%;" >&nbsp;</div></div>
                 </div>
-                <div class="col s6 l3" data-aos="zoom-in" data-aos-delay="900" align="left">
+                <div class="col s6 l3" data-aos="zoom-in" data-aos-delay="300"  align="left">
                     <img src="img/icon/soft/Mysql.png" /><h5 class="light">Mysql</h5><h6>60%</h6>
                     <div id="progress"><div id="progressThumb" data-aos="zoom-in-right" data-aos-delay="500" style="width: 60%;">&nbsp;</div></div>
                 </div>
@@ -210,7 +212,7 @@
             <div class="row" data-aos="zoom-in-down">
             </div><br><br>
             <div class="row center">
-                <div class="col s6 l3" data-aos="zoom-in" data-aos-delay="500" align="left">
+                <div class="col s6 l3" data-aos="zoom-in" data-aos-delay="300"  align="left">
                     <img src="img/icon/soft/csharp.png" /><h5 class="light">C-Sharp</h5><h6>60%</h6>
                     <div id="progress"><div id="progressThumb" data-aos="zoom-in-right" data-aos-delay="500" style="width: 60%;">&nbsp;</div></div>
                 </div>
@@ -332,7 +334,6 @@
 
 <div class="container">
     <div class="section">
-
         <div class="row">
             <div class="col s12 center">
                 <h3><i class="mdi-content-send brown-text"></i></h3>
@@ -342,22 +343,23 @@
         </div>
     </div>
 </div>
-<!--Prince VR-->
-<div class="row">
-    <div class="col l4 left hide-on-med-and-down">
-        <iframe src="https://player.vimeo.com/video/119261068?color=00ffcc&title=0&byline=0&portrait=0" width="360" height="223" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
+<!--ShowReel VR-->
+<div class="row center">
+    <div class="col s12 l12 left ">
+        <iframe src="https://player.vimeo.com/video/119261068?color=00ffcc&title=0&byline=0&portrait=0" width="60%" height="40%" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
     </div>
-    <div class="col s6 l4 left">
-        <h5>CBL PRINCE™ VR  </h5>
-        <hr class="left" style="width: 140px;"><br>
-<!--           A Vivid Experience, Where Prince he lives in his castle. I made it-->
+    <div class="col s12 l4 offset-l4">
+        <h5>CBL PRINCE™ VR</h5>
+        <hr style="width: 140px;"><br>
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique ut urna ut varius.
         Mauris vel mattis diam, a pharetra lorem. Aliquam congue vestibulum sagittis. Praesent pulvinar libero quis metus vestibulum,
         nascetur ridiculus mus. Donec porttitor lectus eu odio volutpat sollicitudin. Integer eget massa mollis, volutpat quam eget,
         aliquet lorem.
     </div>
-    <div class="col s6 l4 left">
+</div>
+<!--Prince VR-->
+<div class="row">
+    <div class="col s12 m4 l4 left">
         <div class="grid" >
             <div class="grid-sizer"></div>
             <div class="grid-item">
@@ -382,23 +384,58 @@
             <div class="grid-item">
                 <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/cat-nose.jpg" />
             </div>
-            <div class="grid-item">
-                <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/contrail.jpg" />
-            </div>
-            <div class="grid-item">
-                <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/golden-hour.jpg" />
-            </div>
+        </div>
+    </div>
+    <div class="col s6 m6 l5 left">
+        <h5>CBL PRINCE™ VR </h5>
+        <hr class="left" style="width: 140px;"><br>
+        <!--           A Vivid Experience, Where Prince he lives in his castle. I made it-->
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique ut urna ut varius.
+        Mauris vel mattis diam, a pharetra lorem. Aliquam congue vestibulum sagittis. Praesent pulvinar libero quis metus vestibulum,
+        nascetur ridiculus mus. Donec porttitor lectus eu odio volutpat sollicitudin. Integer eget massa mollis, volutpat quam eget,
+        aliquet lorem.
+    </div>
+    <div class="col s6 m3 l3 left">
+        <h5>Softwares Used</h5>
+        <hr class="left" style="width: 140px;"><br>
+        <div class="row">
+            <div class="col s4 m4 l4 center"><img width="32" src="img/icon/soft/Ue4.png" /><h6 class="light">Unreal Engine 4</h6><br></div>
+            <div class="col s4 m4 l4 center"><img width="32" src="img/icon/soft/Ue4.png" /><h6 class="light">Unreal Engine 4</h6><br></div>
+            <div class="col s4 m4 l4 center"><img width="32" src="img/icon/soft/Ue4.png" /><h6 class="light">Unreal Engine 4</h6><br></div>
+            <div class="col s4 m4 l4 center"><img width="32" src="img/icon/soft/Ue4.png" /><h6 class="light">Unreal Engine 4</h6><br></div>
         </div>
     </div>
 </div>
-
-<!--Bhahria VR-->
+<!--TUC VR Ride-->
 <div class="row">
-    <div class="col l4 left hide-on-med-and-down">
-        <iframe src="https://player.vimeo.com/video/119261068?color=00ffcc&title=0&byline=0&portrait=0" width="360" height="223" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
+    <div class="col s12 m4 l4 left">
+        <div class="grid" >
+            <div class="grid-sizer"></div>
+            <div class="grid-item">
+                <a href="img/portfolio/8.jpg" data-lightbox="prince" data-title="Orange Tree">
+                    <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/orange-tree.jpg" />
+                </a>
+            </div>
+            <div class="grid-item">
+                <a href="img/portfolio/7.jpg" data-lightbox="prince" data-title="Penguins">
+                    <img src="img/portfolio/7.jpg" />
+                </a>
+            </div>
+            <div class="grid-item">
+                <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/look-out.jpg" />
+            </div>
+            <div class="grid-item">
+                <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/one-world-trade.jpg" />
+            </div>
+            <div class="grid-item">
+                <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/drizzle.jpg" />
+            </div>
+            <div class="grid-item">
+                <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/cat-nose.jpg" />
+            </div>
+        </div>
     </div>
-    <div class="col s6 l4 left">
+    <div class="col s6 m6 l5 left">
         <h5>CBL TUC™ VR RIDE</h5>
         <hr class="left" style="width: 140px;"><br>
         <!--           A Vivid Experience, Where Prince he lives in his castle. I made it-->
@@ -407,93 +444,20 @@
         nascetur ridiculus mus. Donec porttitor lectus eu odio volutpat sollicitudin. Integer eget massa mollis, volutpat quam eget,
         aliquet lorem.
     </div>
-    <div class="col s6 l4 left">
-        <div class="grid" >
-            <div class="grid-sizer"></div>
-            <div class="grid-item">
-                <a href="img/portfolio/8.jpg" data-lightbox="prince" data-title="Orange Tree">
-                    <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/orange-tree.jpg" />
-                </a>
-            </div>
-            <div class="grid-item">
-                <a href="img/portfolio/7.jpg" data-lightbox="prince" data-title="Penguins">
-                    <img src="img/portfolio/7.jpg" />
-                </a>
-            </div>
-            <div class="grid-item">
-                <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/look-out.jpg" />
-            </div>
-            <div class="grid-item">
-                <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/one-world-trade.jpg" />
-            </div>
-            <div class="grid-item">
-                <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/drizzle.jpg" />
-            </div>
-            <div class="grid-item">
-                <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/cat-nose.jpg" />
-            </div>
-        </div>
-    </div>
-</div>
-<!--Toyota VR-->
-<div class="row">
-    <div class="col l4 left hide-on-med-and-down">
-        <iframe src="https://player.vimeo.com/video/119261068?color=00ffcc&title=0&byline=0&portrait=0" width="360" height="223" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
-    </div>
-    <div class="col s6 l4 left">
-        <h5>TOYOTA FORTUNER™ VR RIDE</h5>
+    <div class="col s6 m3 l3 left">
+        <h5>Softwares Used</h5>
         <hr class="left" style="width: 140px;"><br>
-        <!--           A Vivid Experience, Where Prince he lives in his castle. I made it-->
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique ut urna ut varius.
-        Mauris vel mattis diam, a pharetra lorem. Aliquam congue vestibulum sagittis. Praesent pulvinar libero quis metus vestibulum,
-        nascetur ridiculus mus. Donec porttitor lectus eu odio volutpat sollicitudin. Integer eget massa mollis, volutpat quam eget,
-        aliquet lorem.
-    </div>
-    <div class="col s6 l4 left">
-        <div class="grid" >
-            <div class="grid-sizer"></div>
-            <div class="grid-item">
-                <a href="img/portfolio/8.jpg" data-lightbox="prince" data-title="Orange Tree">
-                    <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/orange-tree.jpg" />
-                </a>
-            </div>
-            <div class="grid-item">
-                <a href="img/portfolio/7.jpg" data-lightbox="prince" data-title="Penguins">
-                    <img src="img/portfolio/7.jpg" />
-                </a>
-            </div>
-            <div class="grid-item">
-                <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/look-out.jpg" />
-            </div>
-            <div class="grid-item">
-                <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/one-world-trade.jpg" />
-            </div>
-            <div class="grid-item">
-                <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/drizzle.jpg" />
-            </div>
-            <div class="grid-item">
-                <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/cat-nose.jpg" />
-            </div>
+        <div class="row">
+            <div class="col s4 m4 l4 center"><img width="32" src="img/icon/soft/Ue4.png" /><h6 class="light">Unreal Engine 4</h6><br></div>
+            <div class="col s4 m4 l4 center"><img width="32" src="img/icon/soft/Ue4.png" /><h6 class="light">Unreal Engine 4</h6><br></div>
+            <div class="col s4 m4 l4 center"><img width="32" src="img/icon/soft/Ue4.png" /><h6 class="light">Unreal Engine 4</h6><br></div>
+            <div class="col s4 m4 l4 center"><img width="32" src="img/icon/soft/Ue4.png" /><h6 class="light">Unreal Engine 4</h6><br></div>
         </div>
     </div>
 </div>
 <!--User Experiences -->
 <div class="row">
-    <div class="col l4 left hide-on-med-and-down">
-         <iframe src="https://player.vimeo.com/video/119261068?color=00ffcc&title=0&byline=0&portrait=0" width="360" height="223" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
-    </div>
-    <div class="col s6 l4 left">
-        <h5>CBL TUC™ VENDING MACHINE</h5>
-        <hr class="left" style="width: 140px;"><br>
-        <!--           A Vivid Experience, Where Prince he lives in his castle. I made it-->
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique ut urna ut varius.
-        Mauris vel mattis diam, a pharetra lorem. Aliquam congue vestibulum sagittis. Praesent pulvinar libero quis metus vestibulum,
-        nascetur ridiculus mus. Donec porttitor lectus eu odio volutpat sollicitudin. Integer eget massa mollis, volutpat quam eget,
-        aliquet lorem.
-    </div>
-    <div class="col s6 l4 left">
+    <div class="col s12 m4 l4 left">
         <div class="grid" >
             <div class="grid-sizer"></div>
             <div class="grid-item">
@@ -520,23 +484,29 @@
             </div>
         </div>
     </div>
+    <div class="col s6 m6 l5 left">
+        <h5>CBL TUC™ Vending Machine</h5>
+        <hr class="left" style="width: 140px;"><br>
+        <!--           A Vivid Experience, Where Prince he lives in his castle. I made it-->
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique ut urna ut varius.
+        Mauris vel mattis diam, a pharetra lorem. Aliquam congue vestibulum sagittis. Praesent pulvinar libero quis metus vestibulum,
+        nascetur ridiculus mus. Donec porttitor lectus eu odio volutpat sollicitudin. Integer eget massa mollis, volutpat quam eget,
+        aliquet lorem.
+    </div>
+    <div class="col s6 m3 l3 left">
+        <h5>Softwares Used</h5>
+        <hr class="left" style="width: 140px;"><br>
+        <div class="row">
+            <div class="col s4 m4 l4 center"><img width="32" src="img/icon/soft/Ue4.png" /><h6 class="light">Unreal Engine 4</h6><br></div>
+            <div class="col s4 m4 l4 center"><img width="32" src="img/icon/soft/Ue4.png" /><h6 class="light">Unreal Engine 4</h6><br></div>
+            <div class="col s4 m4 l4 center"><img width="32" src="img/icon/soft/Ue4.png" /><h6 class="light">Unreal Engine 4</h6><br></div>
+            <div class="col s4 m4 l4 center"><img width="32" src="img/icon/soft/Ue4.png" /><h6 class="light">Unreal Engine 4</h6><br></div>
+        </div>
+    </div>
 </div>
-<!--2D XP-->
+<!--Web Dev-->
 <div class="row">
-    <div class="col l4 left hide-on-med-and-down">
-        <iframe src="https://player.vimeo.com/video/119261068?color=00ffcc&title=0&byline=0&portrait=0" width="360" height="223" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
-    </div>
-    <div class="col s6 l4 left">
-        <h5>VENDING MACHINE UX</h5>
-        <hr class="left" style="width: 140px;"><br>
-        <!--           A Vivid Experience, Where Prince he lives in his castle. I made it-->
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique ut urna ut varius.
-        Mauris vel mattis diam, a pharetra lorem. Aliquam congue vestibulum sagittis. Praesent pulvinar libero quis metus vestibulum,
-        nascetur ridiculus mus. Donec porttitor lectus eu odio volutpat sollicitudin. Integer eget massa mollis, volutpat quam eget,
-        aliquet lorem.
-    </div>
-    <div class="col s6 l4 left">
+    <div class="col s12 m4 l4 left">
         <div class="grid" >
             <div class="grid-sizer"></div>
             <div class="grid-item">
@@ -563,20 +533,30 @@
             </div>
         </div>
     </div>
+    <div class="col s6 m6 l5 left">
+        <h5>CBL TUC™ VR RIDE</h5>
+        <hr class="left" style="width: 140px;"><br>
+        <!--           A Vivid Experience, Where Prince he lives in his castle. I made it-->
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique ut urna ut varius.
+        Mauris vel mattis diam, a pharetra lorem. Aliquam congue vestibulum sagittis. Praesent pulvinar libero quis metus vestibulum,
+        nascetur ridiculus mus. Donec porttitor lectus eu odio volutpat sollicitudin. Integer eget massa mollis, volutpat quam eget,
+        aliquet lorem.
+    </div>
+    <div class="col s6 m3 l3 left">
+        <h5>Softwares Used</h5>
+        <hr class="left" style="width: 140px;"><br>
+        <div class="row">
+            <div class="col s4 m4 l4 center"><img width="32" src="img/icon/soft/Ue4.png" /><h6 class="light">Unreal Engine 4</h6><br></div>
+            <div class="col s4 m4 l4 center"><img width="32" src="img/icon/soft/Ue4.png" /><h6 class="light">Unreal Engine 4</h6><br></div>
+            <div class="col s4 m4 l4 center"><img width="32" src="img/icon/soft/Ue4.png" /><h6 class="light">Unreal Engine 4</h6><br></div>
+            <div class="col s4 m4 l4 center"><img width="32" src="img/icon/soft/Ue4.png" /><h6 class="light">Unreal Engine 4</h6><br></div>
+        </div>
+    </div>
 </div>
 
-
-
-<!--<div class="grid" data-masonry='{ "itemSelector": ".grid-item", "columnWidth": 200 }'>-->
-<!--    <div class="grid-item" ><img src="img/portfolio/1.jpg" alt="Creep" /></div>-->
-<!--    <div class="grid-item" ><img src="img/portfolio/2.jpg" alt="Creep" /></div>-->
-<!--    <div class="grid-item" ><img src="img/portfolio/3.jpg" alt="Creep" /></div>-->
-<!--    <div class="grid-item" ><img src="img/portfolio/4.jpg" alt="Creep" /></div>-->
-<!--    <div class="grid-item" ><img src="img/portfolio/5.jpg" alt="Creep" /></div>-->
-<!--    <div class="grid-item" ><img src="img/portfolio/6.jpg" alt="Creep" /></div>-->
-<!---->
-<!--</div>-->
-
+<!--========================================-->
+<!--E  X  P  E  R  I  E  N  C  E-->
+<!--========================================-->
 
 <!--For desktop Devices-->
 <div class="parallax-container hide-on-small-only" id="xp">
