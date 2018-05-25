@@ -18,8 +18,6 @@
     
       gtag('config', 'UA-107915531-1');
     </script>
-
-
     <script src="js/smooth-scroll.js"></script>
 
     <!--Let browser know website is optimized for mobile-->
@@ -37,10 +35,10 @@
     <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
     <link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
 
-<!--    Masonry-->
+<!-- Masonry -->
 </head>
 <body class="grey darken-4 grey-text text-lighten-2">
-<div id="index-banner" class="parallax-container">
+<div id="index-banner" class="parallax-container" data-parallax="scroll" data-image-src="img/back/background1.jpg">
     <br><br>
     <div class="section no-pad-bot" >
         <div id="particles-js" style="position: absolute; z-index: 1; width: 100%" ></div>
@@ -64,17 +62,20 @@
 
 <div class="container">
     <div class="section">
-
         <!--   Icon Section   -->
         <div class="row">
-                <div class="col s12 m12 l12" align="center">
+            <div class="col s12 m12 l12" align="center">
 <!--                    <img id="pinimg" src="img/base.png" alt="RADPIC" width="160" data-aos="zoom-in-right"/>-->
-                    <h5><strong>SHORTLY ABOUT ME</strong></h5><hr id="hr-2" style="width: 300px;">
-                    A 24 Years old 3D game & VR developer with 2+ years of experience in VR simulations & Experiences in a marketing agency.<br>
-                    Design & Develop several VR experiences, Web Applications & UX.
-                    <br>
+                <h5><strong>ABOUT ME</strong></h5><hr id="hr-2" style="width: 300px;">
+                I have always been a video game enthusiast, in the past few years i have been working on VR Development
+                which fascinate me the most. I have also improved my programming skills in various web development languages and frameworks. I am an
+                Experienced VR Designer & Developer with vast IT experience. Skills include 3D Generalist, Front-end web development and [UX-UI] Developer.
+
+<!--                A 23 Years old 3D game & VR developer with 2+ years of experience in VR simulations & Experiences in a marketing agency.<br>-->
+<!--                Design & Develop several VR experiences, Web Applications & UX.-->
+                <br>
 <!--                    <a data-aos="fade-up" href="#info" id="download-button" class="btn-large waves-effect waves-light black lighten-3"><i class="tiny material-icons left">contacts</i>Read More</a>-->
-                </div>
+            </div>
         </div>
         <div class="row">
             <div class="col s12 m12 l12" align="center">
@@ -84,8 +85,7 @@
                 And a VR Simulation Artist and Developer currently working in a marketing agency which promotes brands & products of different companies.
                 <br>
                 I can also develop User-Experiences, Web Applications and Design Exhibition stands.<br><br>
-                <hr style="width: 300px;"><br>
-                Please have a look on my skills & portfolio.
+                Please have a look on my skills & current portfolio.
                 <br>
             </div>
         </div>
@@ -98,9 +98,9 @@
         <div class="container">
             <div class="row center">
                 <div class="row" data-aos="zoom-in-down">
-                    <h5>A brief information about tool which i use regularly.</h5>
-                    <h7>some of minor tools are not listed.</h7>
-                    <h3>Graphics</h3>
+<!--                    <h5>A brief information about tool which i generally use.</h5>-->
+<!--                    <h7>some of minor tools are not listed.</h7>-->
+                    <h3>Graphics Skills</h3>
                     <hr style="width: 300px;"><br><br><br>
                 </div>
                 <div class="col s6 l3" data-aos="zoom-in" data-aos-delay="300" align="left">
@@ -170,7 +170,7 @@
 <!--   P  R  G  R  A  M  M  I  N  G    S  K  I  L  L  -->
 <!--       ///////////////////////////////////////////-->
             <div class="row center" data-aos="zoom-in-down">
-                <h3>Programming</h3>
+                <h3>Programming Skills</h3>
                 <hr style="width: 300px;"><br><br><br>
             </div>
             <div class="row center">
@@ -337,24 +337,22 @@
         <div class="row">
             <div class="col s12 center">
                 <h3><i class="mdi-content-send brown-text"></i></h3>
-                <h4>MY PORTFOLIO</h4>
+                <h4>LATEST PORTFOLIO</h4>
                 <p class="left-align light"></p>
             </div>
         </div>
     </div>
 </div>
 <!--ShowReel VR-->
-<div class="row center">
-    <div class="col s12 l12 left ">
-        <iframe src="https://player.vimeo.com/video/119261068?color=00ffcc&title=0&byline=0&portrait=0" width="60%" height="40%" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<div class="row center hide-on-small-only">
+    <div class="col s12 l12 left">
+        <iframe src="https://player.vimeo.com/video/119261068?color=00ffcc&title=0&byline=0&portrait=0" width="480" height="320" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
     </div>
     <div class="col s12 l4 offset-l4">
         <h5>CBL PRINCE™ VR</h5>
         <hr style="width: 140px;"><br>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique ut urna ut varius.
-        Mauris vel mattis diam, a pharetra lorem. Aliquam congue vestibulum sagittis. Praesent pulvinar libero quis metus vestibulum,
-        nascetur ridiculus mus. Donec porttitor lectus eu odio volutpat sollicitudin. Integer eget massa mollis, volutpat quam eget,
-        aliquet lorem.
+        <!--Content Required-->
+        This is my VR Showreel. I developed these VR XPs with a very small team therefore most of 3D Art and Development was done by me.
     </div>
 </div>
 <!--Prince VR-->
@@ -386,7 +384,7 @@
             </div>
         </div>
     </div>
-    <div class="col s6 m6 l5 left">
+    <div class="col s8 m5 l5 left">
         <h5>CBL PRINCE™ VR </h5>
         <hr class="left" style="width: 140px;"><br>
         <!--           A Vivid Experience, Where Prince he lives in his castle. I made it-->
@@ -395,7 +393,7 @@
         nascetur ridiculus mus. Donec porttitor lectus eu odio volutpat sollicitudin. Integer eget massa mollis, volutpat quam eget,
         aliquet lorem.
     </div>
-    <div class="col s6 m3 l3 left">
+    <div class="col s4 m3 l3 left">
         <h5>Softwares Used</h5>
         <hr class="left" style="width: 140px;"><br>
         <div class="row">
@@ -435,7 +433,7 @@
             </div>
         </div>
     </div>
-    <div class="col s6 m6 l5 left">
+    <div class="col s8 m5 l5 left">
         <h5>CBL TUC™ VR RIDE</h5>
         <hr class="left" style="width: 140px;"><br>
         <!--           A Vivid Experience, Where Prince he lives in his castle. I made it-->
@@ -444,7 +442,7 @@
         nascetur ridiculus mus. Donec porttitor lectus eu odio volutpat sollicitudin. Integer eget massa mollis, volutpat quam eget,
         aliquet lorem.
     </div>
-    <div class="col s6 m3 l3 left">
+    <div class="col s4 m3 l3 left">
         <h5>Softwares Used</h5>
         <hr class="left" style="width: 140px;"><br>
         <div class="row">
@@ -484,7 +482,7 @@
             </div>
         </div>
     </div>
-    <div class="col s6 m6 l5 left">
+    <div class="col s8 m5 l5 left">
         <h5>CBL TUC™ Vending Machine</h5>
         <hr class="left" style="width: 140px;"><br>
         <!--           A Vivid Experience, Where Prince he lives in his castle. I made it-->
@@ -493,7 +491,7 @@
         nascetur ridiculus mus. Donec porttitor lectus eu odio volutpat sollicitudin. Integer eget massa mollis, volutpat quam eget,
         aliquet lorem.
     </div>
-    <div class="col s6 m3 l3 left">
+    <div class="col s4 m3 l3 left">
         <h5>Softwares Used</h5>
         <hr class="left" style="width: 140px;"><br>
         <div class="row">
@@ -533,7 +531,7 @@
             </div>
         </div>
     </div>
-    <div class="col s6 m6 l5 left">
+    <div class="col s8 m5 l5 left">
         <h5>CBL TUC™ VR RIDE</h5>
         <hr class="left" style="width: 140px;"><br>
         <!--           A Vivid Experience, Where Prince he lives in his castle. I made it-->
@@ -542,7 +540,7 @@
         nascetur ridiculus mus. Donec porttitor lectus eu odio volutpat sollicitudin. Integer eget massa mollis, volutpat quam eget,
         aliquet lorem.
     </div>
-    <div class="col s6 m3 l3 left">
+    <div class="col s4 m3 l3 left">
         <h5>Softwares Used</h5>
         <hr class="left" style="width: 140px;"><br>
         <div class="row">
@@ -559,38 +557,15 @@
 <!--========================================-->
 
 <!--For desktop Devices-->
-<div class="parallax-container hide-on-small-only" id="xp">
-    <div class="section" >
+<div class="parallax-container hide-on-med-and-down" data-parallax="scroll" data-image-src="img/back/BG3.jpg" id="xp">
+    <div class="section">
         <div class="container">
             <div class="row">
                 <div class="col s12 center">
-                    <h4>MY EXPERIENCE</h4>
+                    <h4>PROFESSIONAL EXPERIENCES</h4>
                 </div>
             </div>
-<!--            <div class="row center">-->
-<!--                <h4 class="light">My Experiences</h4>-->
-<!--            </div>-->
-            <div class="row">
-                <div class="col s5 l5 left">
-                </div>
-                <div class="col s1 l1" >
-                    <div id="sCircle" class="center-align" data-aos="fade-up" data-aos-delay="200"></div>
-                    <div id="tLine" data-aos="fade-up" data-aos-delay="400"></div>
-                </div>
-                <div class="col s6 l6 left" data-aos="fade-right" data-aos-delay="600">
-                    <h5>Vision Direct Marketing</h5>
-                    <h6 style="font-weight: 400;">VR Simulation Artist & Developer - Jul 2016-Present</h6>
-                    <h6>
-                        My First start as a junior graphics designer I learn alot here.
-                    </h6>
-                    <h6>
-                        • Designing 3D content for VR applications.<br>
-                        • Producing VR Experience.<br>
-                        • Developing web apps.<br>
-                    </h6>
-                </div>
-            </div>
-            <div class="row">
+            <div class="row" style="margin: 0px;">
                 <div class="col s6 l6 right">
                 </div>
                 <div class="col s1 l1 right">
@@ -599,35 +574,37 @@
                 </div>
                 <div class="col s5 l5 right" data-aos="fade-left" data-aos-delay="600">
                     <h5 class="right-align">Vision Direct Marketing</h5>
-                    <h6 class="right-align" style="font-weight: 400;">Senior Visual Designer - Jul 2015-Jul2016</h6>
+                    <h6 class="right-align" style="font-weight: 400;">Karachi, Sindh</h6>
+                    <h6 class="right-align" style="font-weight: 400;">Senior VR Artist & Developer - March 2015 - Present</h6>
                     <h6 class="right-align">
                         Very good Company, I Made here Enough fans to support me learning VR and Games. Launch VR First Time in Pakistan.
                         But it didn't work
                     </h6>
                     <h6 class="right-align">
-                        • 3D Designs for Exhibition Events, Simulations.<br>
-                        • Developing Web apps & user Experiences.<br>
+                        • Produced 3D content for VR applications.<br>
+                        • Produced VR Experience.<br>
+                        • Researched and Developed new technologies.<br>
+                        • Developed UI & UX.<br>
+                        • Developed web applications.<br>
                     </h6>
                 </div>
             </div>
             <div class="row">
-                <div class="col s5 l5 left">
-                </div>
-                <div class="col s1 l1">
+                <div class="col s1 offset-s5 l1 offset-l5">
                     <div id="sCircle" class="center-align" data-aos="fade-up" data-aos-delay="200"></div>
                 </div>
                 <div class="col s6 l6 left" data-aos="fade-right" data-aos-delay="600">
                     <h5>Jsun Technologies</h5>
-                    <h6 style="font-weight: 400;">Junior Graphics Designer - Oct 2011-Feb 2015</h6>
+                    <h6 style="font-weight: 400;">Karachi, Sindh</h6>
+                    <h6 style="font-weight: 400;">Graphics Designer - Oct 2011 - Feb 2015</h6>
                     <h6>
-                        My First start as a junior graphics designer I learn alot here About Low & High Poly.
-                        Making good amount of Game Engine Experience.
+                        I spearheaded for working on a range of projects, developing appealing websites,
+                        Designing 3D models for architecture and Exhibition, 2D Artworks. I learn a lot here About Low & High Poly, Web Development and other graphics fundamentals.
                     </h6>
                     <h6>
                         • Making static websites & 3D Stands.<br>
-                        • Designing UI & UX.<br>
-                        • Artworks for Promotions.<br>
-                        • Controlling Data Bases.<br>
+                        • Designed UI & UX.<br>
+                        • Designed Artworks for Promotions.<br>
                     </h6>
                 </div>
             </div>
@@ -642,7 +619,7 @@
 
 
 <!--For Mobile Devices-->
-<div class="parallax-container hide-on-med-and-up" id="xp">
+<div class="parallax-container hide" id="xp">
     <div class="section" >
         <div class="container">
             <div class="row">
@@ -672,8 +649,7 @@
                     <h5 class="right-align">Vision Direct Marketing</h5>
                     <h6 class="right-align" style="font-weight: 400;">Senior Visual Designer - Jul 2015-Jul2016</h6>
                     <h6 class="right-align">
-                        Very good Company, I Made here Enough fans to support me learning VR and Games. Launch VR First Time in Pakistan.
-                        But it didn't work
+                        I am currently working here
                     </h6>
                     <h6 class="right-align">
                         • 3D Designs for Exhibition Events, Simulations.<br>
@@ -683,17 +659,17 @@
             </div>
             <div class="row">
                 <div class="col s12 left" data-aos="fade-right" data-aos-delay="600">
-                    <h5>Jsun Technologies</h5>
+                    <h5>JSUN Technologies</h5>
+                    <h6 style="font-weight: 400;">Karachi, Sindh</h6>
                     <h6 style="font-weight: 400;">Junior Graphics Designer - Oct 2011-Feb 2015</h6>
                     <h6>
-                        My First start as a junior graphics designer I learn alot here About Low & High Poly.
-                        Making good amount of Game Engine Experience.
+                        My start as a junior graphics designer. I learn a lot here About Low & High Poly, Web Development and other graphics fundamentals.
                     </h6>
                     <h6>
-                        • Making static websites & 3D Stands.<br>
+                        • Developing static websites & 3D Stands.<br>
                         • Designing UI & UX.<br>
-                        • Artworks for Promotions.<br>
-                        • Controlling Data Bases.<br>
+                        • Artworks for Brands Promotions.<br>
+                        • Maintaining Data Bases.<br>
                     </h6>
                 </div>
             </div>
@@ -733,7 +709,7 @@
     </div>
     <div class="footer-copyright grey darken-3">
         <div class="container">
-            Made by <a class="brown-text text-lighten-3">Wajahat Mughal</a><a href="#!" class=" white-text right">2017</a>
+            Made by <a class="brown-text text-lighten-3">Wajahat Mughal</a><a href="#!" class=" white-text right">2018</a>
         </div>
     </div>
     <div class="footer-copyright grey darken-4">
@@ -750,7 +726,7 @@
 
 
 <!--  Scripts-->
-<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
 <script src="js/materialize.js"></script>
 <script src="js/init.js"></script>
 <script type="application/javascript" src="js/aos.js"></script>
@@ -758,6 +734,7 @@
 <script type="application/javascript" src="https://masonry.desandro.com/masonry.pkgd.js"></script>
 <script type="application/javascript" src="https://imagesloaded.desandro.com/imagesloaded.pkgd.js"></script>
 <script type="application/javascript" src="js/lightbox.min.js"></script>
+<script type="application/javascript" src="js/parallax.min.js"></script>
 <script>
 
     //Smooth Scroll
