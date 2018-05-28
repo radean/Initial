@@ -68,24 +68,22 @@
 <!--                    <img id="pinimg" src="img/base.png" alt="RADPIC" width="160" data-aos="zoom-in-right"/>-->
                 <h5><strong>ABOUT ME</strong></h5><hr id="hr-2" style="width: 300px;">
                 I have always been a video game enthusiast, in the past few years i have been working on VR Development
-                which fascinate me the most. I have also improved my programming skills in various web development languages and frameworks. I am an
-                Experienced VR Designer & Developer with vast IT experience. Skills include 3D Generalist, Front-end web development and [UX-UI] Developer.
-
-<!--                A 23 Years old 3D game & VR developer with 2+ years of experience in VR simulations & Experiences in a marketing agency.<br>-->
-<!--                Design & Develop several VR experiences, Web Applications & UX.-->
+                which fascinate me the most. I also improved my programming skills in various web development languages and frameworks along with 3D skills. I have 3+ years of
+                experience in VR Designer & Developer, and more than 6+ years in 3D Generalist, Front-end web development and [UX-UI] Development. I am
+                currently working in Karachi but open to relocate.
                 <br>
-<!--                    <a data-aos="fade-up" href="#info" id="download-button" class="btn-large waves-effect waves-light black lighten-3"><i class="tiny material-icons left">contacts</i>Read More</a>-->
             </div>
         </div>
         <div class="row">
             <div class="col s12 m12 l12" align="center">
-                <!--                    <img id="pinimg" src="img/base.png" alt="RADPIC" width="160" data-aos="zoom-in-right"/>-->
-                <h5><strong>WHAT I DO & CAN DO</strong></h5><hr style="width: 300px;">
-                I am a challenge seeker and lifelong learner.<br>
-                And a VR Simulation Artist and Developer currently working in a marketing agency which promotes brands & products of different companies.
-                <br>
-                I can also develop User-Experiences, Web Applications and Design Exhibition stands.<br><br>
-                Please have a look on my skills & current portfolio.
+                <!--                    <img id="pinimg" src="img/base.png" alt="RADPIC" width="160" data-aos="zoom-in-right"/> -->
+<!--                <h5><strong>WHAT I DO & CAN DO</strong></h5><hr style="width: 300px;">-->
+                    <h5>Please have a look on my skills.    </h5>
+<!--                I am a challenge seeker and lifelong learner.<br>-->
+<!--                And a VR Simulation Artist and Developer currently working in a marketing agency which promotes brands & products of different companies.-->
+<!--                <br>-->
+<!--                I can also develop User-Experiences, Web Applications and Design Exhibition stands.<br><br>-->
+<!--                Please have a look on my skills & current portfolio.-->
                 <br>
             </div>
         </div>
@@ -133,7 +131,7 @@
                     <div id="progress"><div id="progressThumb" data-aos="zoom-in-right" data-aos-delay="500" style="width: 85%;">&nbsp;</div></div>
                 </div>
                 <div class="col s6 l3" data-aos="zoom-in" data-aos-delay="700" align="left">
-                    <img src="img/icon/soft/Qds.png" /><h5 class="light">DDOS</h5><h6>66%</h6>
+                    <img src="img/icon/soft/Qds.png" /><h5 class="light">Quixel DDO</h5><h6>66%</h6>
                     <div id="progress"><div id="progressThumb" data-aos="zoom-in-right" data-aos-delay="500" style="width: 66%;";>&nbsp;</div></div>
                 </div>
                 <div class="col s6 l3" data-aos="zoom-in" data-aos-delay="900" align="left">
@@ -352,7 +350,7 @@
         <h5>CBL PRINCE™ VR</h5>
         <hr style="width: 140px;"><br>
         <!--Content Required-->
-        This is my VR Showreel. I developed these VR XPs with a very small team therefore most of 3D Art and Development was done by me.
+        I developed all these VR XPs with a tiny team therefore most of 3D Art and Development was done by me.
     </div>
 </div>
 <!--Prince VR-->
@@ -398,9 +396,13 @@
         <hr class="left" style="width: 140px;"><br>
         <div class="row">
             <div class="col s4 m4 l4 center"><img width="32" src="img/icon/soft/Ue4.png" /><h6 class="light">Unreal Engine 4</h6><br></div>
-            <div class="col s4 m4 l4 center"><img width="32" src="img/icon/soft/Ue4.png" /><h6 class="light">Unreal Engine 4</h6><br></div>
-            <div class="col s4 m4 l4 center"><img width="32" src="img/icon/soft/Ue4.png" /><h6 class="light">Unreal Engine 4</h6><br></div>
-            <div class="col s4 m4 l4 center"><img width="32" src="img/icon/soft/Ue4.png" /><h6 class="light">Unreal Engine 4</h6><br></div>
+            <div class="col s4 m4 l4 center"><img width="32" src="img/icon/soft/Ue4.png" /><h6 class="light">3Dsmax</h6><br></div>
+            <div class="col s4 m4 l4 center"><img width="32" src="img/icon/soft/Ue4.png" /><h6 class="light">ZBrush</h6><br></div>
+            <div class="col s4 m4 l4 center"><img width="32" src="img/icon/soft/Ue4.png" /><h6 class="light">AdobeSuite</h6><br></div>
+            <div class="col s4 m4 l4 center"><img width="32" src="img/icon/soft/Ue4.png" /><h6 class="light">Quixel</h6><br></div>
+            <div class="col s4 m4 l4 center"><img width="32" src="img/icon/soft/Ue4.png" /><h6 class="light">AdobeSuite</h6><br></div>
+            <div class="col s4 m4 l4 center"><img width="32" src="img/icon/soft/Ue4.png" /><h6 class="light">AdobeSuite</h6><br></div>
+            <div class="col s4 m4 l4 center"><img width="32" src="img/icon/soft/Ue4.png" /><h6 class="light">AdobeSuite</h6><br></div>
         </div>
     </div>
 </div>
