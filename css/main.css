@@ -58,7 +58,7 @@ body::-webkit-scrollbar-thumb {
 /*CREATE A SMALL CIRCLE */
 #sCircle { width: 16px; height: 16px; border-radius: 8px; background: white; margin: 0 auto; }
 /*CREATE A THIN LINE */
-#tLine { width: 2px; height: 49vh; background: white; margin: 0 auto;  margin-bottom: -20px;content: '';}
+#tLine { width: 2px; height: 220px; background: white; margin: 0 auto;  margin-bottom: -20px; content: '';}
 
 
 .grid {

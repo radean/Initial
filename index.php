@@ -347,7 +347,7 @@
         <iframe src="https://player.vimeo.com/video/119261068?color=00ffcc&title=0&byline=0&portrait=0" width="480" height="320" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
     </div>
     <div class="col s12 l4 offset-l4">
-        <h5>CBL PRINCE™ VR</h5>
+        <h5>VR Showreel</h5>
         <hr style="width: 140px;"><br>
         <!--Content Required-->
         I developed all these VR XPs with a tiny team therefore most of 3D Art and Development was done by me.
@@ -395,14 +395,12 @@
         <h5>Softwares Used</h5>
         <hr class="left" style="width: 140px;"><br>
         <div class="row">
-            <div class="col s4 m4 l4 center"><img width="32" src="img/icon/soft/Ue4.png" /><h6 class="light">Unreal Engine 4</h6><br></div>
-            <div class="col s4 m4 l4 center"><img width="32" src="img/icon/soft/Ue4.png" /><h6 class="light">3Dsmax</h6><br></div>
-            <div class="col s4 m4 l4 center"><img width="32" src="img/icon/soft/Ue4.png" /><h6 class="light">ZBrush</h6><br></div>
-            <div class="col s4 m4 l4 center"><img width="32" src="img/icon/soft/Ue4.png" /><h6 class="light">AdobeSuite</h6><br></div>
-            <div class="col s4 m4 l4 center"><img width="32" src="img/icon/soft/Ue4.png" /><h6 class="light">Quixel</h6><br></div>
-            <div class="col s4 m4 l4 center"><img width="32" src="img/icon/soft/Ue4.png" /><h6 class="light">AdobeSuite</h6><br></div>
-            <div class="col s4 m4 l4 center"><img width="32" src="img/icon/soft/Ue4.png" /><h6 class="light">AdobeSuite</h6><br></div>
-            <div class="col s4 m4 l4 center"><img width="32" src="img/icon/soft/Ue4.png" /><h6 class="light">AdobeSuite</h6><br></div>
+            <div class="col s4 m4 l4 center"><img width="32" src="img/icon/soft/Ue4.png" /><h6 class="light">UE4</h6><br></div>
+            <div class="col s4 m4 l4 center"><img width="32" src="img/icon/soft/3dsmax.png" /><h6 class="light">3Dsmax</h6><br></div>
+            <div class="col s4 m4 l4 center"><img width="32" src="img/icon/soft/zb.png" /><h6 class="light">ZBrush</h6><br></div>
+            <div class="col s4 m4 l4 center"><img width="32" src="img/icon/soft/cc.png" /><h6 class="light">AdobeSuite</h6><br></div>
+            <div class="col s4 m4 l4 center"><img width="32" src="img/icon/soft/Qds.png" /><h6 class="light">Quixel DDO</h6><br></div>
+            <div class="col s4 m4 l4 center"><img width="32" src="img/icon/soft/Xn.png" /><h6 class="light">XNormal</h6><br></div>
         </div>
     </div>
 </div>
@@ -438,20 +436,15 @@
     <div class="col s8 m5 l5 left">
         <h5>CBL TUC™ VR RIDE</h5>
         <hr class="left" style="width: 140px;"><br>
-        <!--           A Vivid Experience, Where Prince he lives in his castle. I made it-->
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique ut urna ut varius.
-        Mauris vel mattis diam, a pharetra lorem. Aliquam congue vestibulum sagittis. Praesent pulvinar libero quis metus vestibulum,
-        nascetur ridiculus mus. Donec porttitor lectus eu odio volutpat sollicitudin. Integer eget massa mollis, volutpat quam eget,
-        aliquet lorem.
+        TUC VR Ride is a VR experience developed for TUC LU™.
     </div>
     <div class="col s4 m3 l3 left">
         <h5>Softwares Used</h5>
         <hr class="left" style="width: 140px;"><br>
         <div class="row">
             <div class="col s4 m4 l4 center"><img width="32" src="img/icon/soft/Ue4.png" /><h6 class="light">Unreal Engine 4</h6><br></div>
-            <div class="col s4 m4 l4 center"><img width="32" src="img/icon/soft/Ue4.png" /><h6 class="light">Unreal Engine 4</h6><br></div>
-            <div class="col s4 m4 l4 center"><img width="32" src="img/icon/soft/Ue4.png" /><h6 class="light">Unreal Engine 4</h6><br></div>
-            <div class="col s4 m4 l4 center"><img width="32" src="img/icon/soft/Ue4.png" /><h6 class="light">Unreal Engine 4</h6><br></div>
+            <div class="col s4 m4 l4 center"><img width="32" src="img/icon/soft/3dsmax.png" /><h6 class="light">3Dsmax</h6><br></div>
+            <div class="col s4 m4 l4 center"><img width="32" src="img/icon/soft/cc.png" /><h6 class="light">AdobeSuite</h6><br></div>
         </div>
     </div>
 </div>
@@ -487,20 +480,19 @@
     <div class="col s8 m5 l5 left">
         <h5>CBL TUC™ Vending Machine</h5>
         <hr class="left" style="width: 140px;"><br>
-        <!--           A Vivid Experience, Where Prince he lives in his castle. I made it-->
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique ut urna ut varius.
-        Mauris vel mattis diam, a pharetra lorem. Aliquam congue vestibulum sagittis. Praesent pulvinar libero quis metus vestibulum,
-        nascetur ridiculus mus. Donec porttitor lectus eu odio volutpat sollicitudin. Integer eget massa mollis, volutpat quam eget,
-        aliquet lorem.
+        Vending Machine is one of the greatest interactive user experience that gave end user options of choosing favorite topping flavor.
+        This is developed on Construct 2 platform for Android & Google Web store.
+        I developed it from start to end and finished it 3 days before deadline.
     </div>
     <div class="col s4 m3 l3 left">
         <h5>Softwares Used</h5>
         <hr class="left" style="width: 140px;"><br>
         <div class="row">
-            <div class="col s4 m4 l4 center"><img width="32" src="img/icon/soft/Ue4.png" /><h6 class="light">Unreal Engine 4</h6><br></div>
-            <div class="col s4 m4 l4 center"><img width="32" src="img/icon/soft/Ue4.png" /><h6 class="light">Unreal Engine 4</h6><br></div>
-            <div class="col s4 m4 l4 center"><img width="32" src="img/icon/soft/Ue4.png" /><h6 class="light">Unreal Engine 4</h6><br></div>
-            <div class="col s4 m4 l4 center"><img width="32" src="img/icon/soft/Ue4.png" /><h6 class="light">Unreal Engine 4</h6><br></div>
+            <div class="col s4 m4 l4 center"><img width="32" height="32" src="img/icon/soft/C2.png" /><h6 class="light">Construct 2 </h6><br></div>
+            <div class="col s4 m4 l4 center"><img width="32" height="32" src="img/icon/soft/3dsmax.png" /><h6 class="light">3Dsmax</h6><br></div>
+            <div class="col s4 m4 l4 center"><img width="32" height="32" src="img/icon/soft/cc.png" /><h6 class="light">AdobeSuite</h6><br></div>
+            <div class="col s4 m4 l4 center"><img width="32" height="32" src="img/icon/soft/figma.png" /><h6 class="light">Figma</h6><br></div>
+            <div class="col s4 m4 l4 center"><img width="32" height="32" src="img/icon/soft/js.png" /><h6 class="light">JS</h6><br></div>
         </div>
     </div>
 </div>
@@ -534,8 +526,8 @@
         </div>
     </div>
     <div class="col s8 m5 l5 left">
-        <h5>CBL TUC™ VR RIDE</h5>
-        <hr class="left" style="width: 140px;"><br>
+        <h5>Brand Ambassador Management system [BAMS]</h5>
+        <hr class="left" style="width: 400px;"><br>
         <!--           A Vivid Experience, Where Prince he lives in his castle. I made it-->
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique ut urna ut varius.
         Mauris vel mattis diam, a pharetra lorem. Aliquam congue vestibulum sagittis. Praesent pulvinar libero quis metus vestibulum,
@@ -546,10 +538,11 @@
         <h5>Softwares Used</h5>
         <hr class="left" style="width: 140px;"><br>
         <div class="row">
-            <div class="col s4 m4 l4 center"><img width="32" src="img/icon/soft/Ue4.png" /><h6 class="light">Unreal Engine 4</h6><br></div>
-            <div class="col s4 m4 l4 center"><img width="32" src="img/icon/soft/Ue4.png" /><h6 class="light">Unreal Engine 4</h6><br></div>
-            <div class="col s4 m4 l4 center"><img width="32" src="img/icon/soft/Ue4.png" /><h6 class="light">Unreal Engine 4</h6><br></div>
-            <div class="col s4 m4 l4 center"><img width="32" src="img/icon/soft/Ue4.png" /><h6 class="light">Unreal Engine 4</h6><br></div>
+            <div class="col s4 m4 l4 center"><img width="32" src="img/icon/soft/vue.png" /><h6 class="light">Vue.js</h6><br></div>
+            <div class="col s4 m4 l4 center"><img width="32" src="img/icon/soft/firebase.png" /><h6 class="light">Firebase</h6><br></div>
+            <div class="col s4 m4 l4 center"><img width="32" src="img/icon/soft/webpack.png" /><h6 class="light">Webpack</h6><br></div>
+            <div class="col s4 m4 l4 center"><img width="32" src="img/icon/soft/css.png" /><h6 class="light">CSS</h6><br></div>
+            <div class="col s4 m4 l4 center"><img width="32" height="32" src="img/icon/soft/figma.png" /><h6 class="light">Figma</h6><br></div>
         </div>
     </div>
 </div>
@@ -571,16 +564,16 @@
                 <div class="col s6 l6 right">
                 </div>
                 <div class="col s1 l1 right">
-                    <div id="sCircle" class="center-align" data-aos="fade-up" data-aos-delay="200"></div>
-                    <div id="tLine" data-aos="fade-up" data-aos-delay="400"></div>
+                    <h3 data-aos="fade-up" data-aos-delay="200">1</h3>
+<!--                    <div id="sCircle" class="center-align" data-aos="fade-up" data-aos-delay="200"></div>-->
+<!--                    <div id="tLine" data-aos="fade-up" data-aos-delay="400"></div>-->
                 </div>
                 <div class="col s5 l5 right" data-aos="fade-left" data-aos-delay="600">
                     <h5 class="right-align">Vision Direct Marketing</h5>
                     <h6 class="right-align" style="font-weight: 400;">Karachi, Sindh</h6>
                     <h6 class="right-align" style="font-weight: 400;">Senior VR Artist & Developer - March 2015 - Present</h6>
                     <h6 class="right-align">
-                        Very good Company, I Made here Enough fans to support me learning VR and Games. Launch VR First Time in Pakistan.
-                        But it didn't work
+                        Over Three years of experience in developing interactive media.
                     </h6>
                     <h6 class="right-align">
                         • Produced 3D content for VR applications.<br>
@@ -593,14 +586,15 @@
             </div>
             <div class="row">
                 <div class="col s1 offset-s5 l1 offset-l5">
-                    <div id="sCircle" class="center-align" data-aos="fade-up" data-aos-delay="200"></div>
+                    <h3 data-aos="fade-up" data-aos-delay="300">2</h3>
+<!--                    <div id="sCircle" class="center-align" data-aos="fade-up" data-aos-delay="200"></div>-->
                 </div>
                 <div class="col s6 l6 left" data-aos="fade-right" data-aos-delay="600">
                     <h5>Jsun Technologies</h5>
                     <h6 style="font-weight: 400;">Karachi, Sindh</h6>
                     <h6 style="font-weight: 400;">Graphics Designer - Oct 2011 - Feb 2015</h6>
                     <h6>
-                        I spearheaded for working on a range of projects, developing appealing websites,
+                        Spearheaded for working on a range of projects, developing appealing websites,
                         Designing 3D models for architecture and Exhibition, 2D Artworks. I learn a lot here About Low & High Poly, Web Development and other graphics fundamentals.
                     </h6>
                     <h6>
@@ -702,9 +696,9 @@
             <div class="col l3 s12">
                 <h5>Connect</h5>
                 <ul>
-                    <li><a class="white-text" href="https://www.linkedin.com/">LinkedIn</a></li>
-                    <li><a class="white-text" href="https://www.facebook.com/">Facebook</a></li>
-                    <li><a class="white-text" href="https://www.twitter.com/">Twitter</a></li>
+<!--                    <li><a class="white-text" href="https://www.linkedin.com/">LinkedIn</a></li>-->
+<!--                    <li><a class="white-text" href="https://www.facebook.com/">Facebook</a></li>-->
+<!--                    <li><a class="white-text" href="https://www.twitter.com/">Twitter</a></li>-->
                 </ul>
             </div>
         </div>
