@@ -50,10 +50,10 @@
                 <h5 class="header center light white-text text-darken-3 text-shadow" data-aos="fade-up" data-aos-delay="200">Full-stack VR Developer.</h5><br><br>
             </div>
             <div class="row center" >
-                <a data-scroll data-aos="fade-up" data-aos-delay="900" href="#xp" id="download-button" class="btn waves-effect waves-light black lighten-3" style="margin: 3px;"><i class="tiny material-icons left">contacts</i>Contact</a><br><br>
-                <a data-scroll data-aos="fade-up" data-aos-delay="1000" href="#skills" id="download-button" class="btn waves-effect waves-light grey lighten-1" style="margin: 3px;"><i class="tiny material-icons left">search</i>Skills</a><br>
-                <a data-scroll data-aos="fade-up" data-aos-delay="1100" href="#portfolio" id="download-button" class="btn waves-effect waves-light grey lighten-1" style="margin: 3px;"><i class="tiny material-icons left">book</i>Portfolio</a><br>
-                <a data-scroll data-aos="fade-up" data-aos-delay="1200" href="down/cv.jpg" download id="download-button" class="btn waves-effect waves-light green lighten-1" style="margin: 3px;"><i class="tiny material-icons left">file_download</i>CV </a>
+                <a data-scroll data-aos="fade-up" data-aos-delay="100" href="#portfolio" id="download-button" class="btn waves-effect waves-light blue lighten-1" style="margin: 3px;"><i class="tiny material-icons left">book</i>Portfolio</a><br>
+                <a data-scroll data-aos="fade-up" data-aos-delay="200" href="#xp" id="download-button" class="btn waves-effect waves-light black lighten-3" style="margin: 3px;"><i class="tiny material-icons left">contacts</i>Contact</a><br><br>
+                <a data-scroll data-aos="fade-up" data-aos-delay="300" href="#skills" id="download-button" class="btn waves-effect waves-light yellow darken-3" style="margin: 3px;"><i class="tiny material-icons left">search</i>Skills</a><br>
+                <a data-scroll data-aos="fade-up" data-aos-delay="400" href="down/cv.jpg" download id="download-button" class="btn waves-effect waves-light green lighten-1" style="margin: 3px;"><i class="tiny material-icons left">file_download</i>CV </a>
             </div>
         </div>
     </div>
@@ -200,7 +200,7 @@
                     <div id="progress"><div id="progressThumb" data-aos="zoom-in-right" data-aos-delay="500" style="width: 80%;" >&nbsp;</div></div>
                 </div>
                 <div class="col s6 l3" data-aos="zoom-in" data-aos-delay="300" align="left">
-                    <img src="img/icon/soft/Js.png" /><h5 class="light">Java Script</h5><h6>63%</h6>
+                    <img src="img/icon/soft/js.png" /><h5 class="light">Java Script</h5><h6>63%</h6>
                     <div id="progress"><div id="progressThumb" data-aos="zoom-in-right" data-aos-delay="500" style="width: 63%;" >&nbsp;</div></div>
                 </div>
                 <div class="col s6 l3" data-aos="zoom-in" data-aos-delay="300"  align="left">
@@ -391,13 +391,13 @@
             </div>
         </div>
     </div>
-    <div class="col s8 m5 l5 left">
+    <div class="col s12 m5 l5 left">
         <h5>CBL PRINCE™ VR </h5>
         <h6>Project Duration : 2 Months</h6>
         <hr class="left" style="width: 140px;"><br>
         CBL Prince™ VR Experience developed for Mall Activation in Karachi. All content from 3D Modelling to UE4 cooking process done by me.
     </div>
-    <div class="col s4 m3 l3 left">
+    <div class="col s12 m3 l3 left">
         <h5>Softwares Used</h5>
         <hr class="left" style="width: 140px;"><br>
         <div class="row">
@@ -451,13 +451,13 @@
             </div>
         </div>
     </div>
-    <div class="col s8 m5 l5 left">
+    <div class="col s12 m5 l5 left">
         <h5>CBL TUC™ VR RIDE</h5>
         <h6>Project Duration : 1 Month</h6>
         <hr class="left" style="width: 140px;"><br>
         TUC VR Ride is a VR experience developed for TUC LU™.
     </div>
-    <div class="col s4 m3 l3 left">
+    <div class="col s12 m3 l3 left">
         <h5>Softwares Used</h5>
         <hr class="left" style="width: 140px;"><br>
         <div class="row">
@@ -494,7 +494,7 @@
             </div>
         </div>
     </div>
-    <div class="col s8 m5 l5 left">
+    <div class="col s12 m5 l5 left">
         <h5>CBL TUC™ Vending Machine</h5>
         <h6>Project Duration : 10 Days</h6>
         <hr class="left" style="width: 140px;"><br>
@@ -506,7 +506,7 @@
 
         </div>
     </div>
-    <div class="col s4 m3 l3 left">
+    <div class="col s12 m3 l3 left">
         <h5>Softwares Used</h5>
         <hr class="left" style="width: 140px;"><br>
         <div class="row">
@@ -556,15 +556,15 @@
             </div>
         </div>
     </div>
-    <div class="col s8 m5 l5 left">
+    <div class="col s12 m5 l5 left">
         <h5>Brand Ambassador Management system [BAMS]</h5>
         <h6>Project Duration : 2 Months</h6>
-        <hr class="left" style="width: 400px;"><br>
+        <hr class="left" style="width: 120px;"><br>
         BAMS is a real-time on-field staff reporting system that control B.A entries and their performance.
         It is currently being used by Emborg™ Mall activation across Pakistan and yield very good reports so far.
         I developed it in Vue.js one of the most rapid development framework, Vuetify for UI, Figma for UX, Firebase for real-time Data.
     </div>
-    <div class="col s4 m3 l3 left">
+    <div class="col s12 m3 l3 left">
         <h5>Softwares Used</h5>
         <hr class="left" style="width: 140px;"><br>
         <div class="row">
@@ -582,7 +582,7 @@
 <!--========================================-->
 
 <!--For desktop Devices-->
-<div class="parallax-container hide-on-med-and-down" data-parallax="scroll" data-image-src="img/back/BG3.jpg" id="xp">
+<div class="parallax-container " data-parallax="scroll" data-image-src="img/back/BG3.jpg" id="xp">
     <div class="section">
         <div class="container">
             <div class="row">
@@ -593,12 +593,12 @@
             <div class="row" style="margin: 0px;">
                 <div class="col s6 l6 right">
                 </div>
-                <div class="col s1 l1 right">
+                <div class="col s1 l1 right hide-on-small-and-down">
                     <h3 data-aos="fade-up" data-aos-delay="200">1</h3>
 <!--                    <div id="sCircle" class="center-align" data-aos="fade-up" data-aos-delay="200"></div>-->
 <!--                    <div id="tLine" data-aos="fade-up" data-aos-delay="400"></div>-->
                 </div>
-                <div class="col s5 l5 right" data-aos="fade-left" data-aos-delay="600">
+                <div class="col s12 m5 l5 right" data-aos="fade-left" data-aos-delay="600">
                     <h5 class="right-align">Vision Direct Marketing</h5>
                     <h6 class="right-align" style="font-weight: 400;">Karachi, Sindh</h6>
                     <h6 class="right-align" style="font-weight: 400;">Senior VR Artist & Developer - March 2015 - Present</h6>
@@ -615,11 +615,11 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col s1 offset-s5 l1 offset-l5">
+                <div class="col s1 offset-s5 l1 offset-l5 hide-on-small-and-down">
                     <h3 data-aos="fade-up" data-aos-delay="300">2</h3>
 <!--                    <div id="sCircle" class="center-align" data-aos="fade-up" data-aos-delay="200"></div>-->
                 </div>
-                <div class="col s6 l6 left" data-aos="fade-right" data-aos-delay="600">
+                <div class="col s12 m5 l6 left" data-aos="fade-right" data-aos-delay="600">
                     <h5>Jsun Technologies</h5>
                     <h6 style="font-weight: 400;">Karachi, Sindh</h6>
                     <h6 style="font-weight: 400;">Graphics Designer - Oct 2011 - Feb 2015</h6>
@@ -653,9 +653,6 @@
                     <h4>MY EXPERIENCE</h4>
                 </div>
             </div>
-            <!--            <div class="row center">-->
-            <!--                <h4 class="light">My Experiences</h4>-->
-            <!--            </div>-->
             <div class="row">
                 <div class="col s12 left" data-aos="fade-right" data-aos-delay="600">
                     <h5>Vision Direct Marketing</h5>
