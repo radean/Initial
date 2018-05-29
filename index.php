@@ -50,9 +50,10 @@
                 <h5 class="header center light white-text text-darken-3 text-shadow" data-aos="fade-up" data-aos-delay="200">Full-stack VR Developer.</h5><br><br>
             </div>
             <div class="row center" >
-                <a data-scroll data-aos="fade-up" data-aos-delay="900" href="#xp" id="download-button" class="btn-large waves-effect waves-light black lighten-3" style="margin: 3px;"><i class="tiny material-icons left">contacts</i>Contact</a><br><br>
-                <a data-scroll data-aos="fade-up" data-aos-delay="1000" href="#skills" id="download-button" class="btn-large waves-effect waves-light grey lighten-1" style="margin: 3px;"><i class="tiny material-icons left">book</i>Skills</a><br>
-                <a data-scroll data-aos="fade-up" data-aos-delay="1100" href="down/cv.jpg" download id="download-button" class="btn-large waves-effect waves-light green lighten-1" style="margin: 3px;"><i class="tiny material-icons left">file_download</i>CV </a>
+                <a data-scroll data-aos="fade-up" data-aos-delay="900" href="#xp" id="download-button" class="btn waves-effect waves-light black lighten-3" style="margin: 3px;"><i class="tiny material-icons left">contacts</i>Contact</a><br><br>
+                <a data-scroll data-aos="fade-up" data-aos-delay="1000" href="#skills" id="download-button" class="btn waves-effect waves-light grey lighten-1" style="margin: 3px;"><i class="tiny material-icons left">search</i>Skills</a><br>
+                <a data-scroll data-aos="fade-up" data-aos-delay="1100" href="#portfolio" id="download-button" class="btn waves-effect waves-light grey lighten-1" style="margin: 3px;"><i class="tiny material-icons left">book</i>Portfolio</a><br>
+                <a data-scroll data-aos="fade-up" data-aos-delay="1200" href="down/cv.jpg" download id="download-button" class="btn waves-effect waves-light green lighten-1" style="margin: 3px;"><i class="tiny material-icons left">file_download</i>CV </a>
             </div>
         </div>
     </div>
@@ -330,7 +331,7 @@
 <!--        <div><img src="img/back/BG4.jpg" alt="Unsplashed background img 2"></div>-->
 </div>
 
-<div class="container">
+<div class="container" >
     <div class="section">
         <div class="row">
             <div class="col s12 center">
@@ -342,7 +343,7 @@
     </div>
 </div>
 <!--ShowReel VR-->
-<div class="row center hide-on-small-only">
+<div class="row center hide-on-small-only" id="portfolio">
     <div class="col s12 l12 left">
         <iframe src="https://player.vimeo.com/video/119261068?color=00ffcc&title=0&byline=0&portrait=0" width="480" height="320" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
     </div>
@@ -359,37 +360,42 @@
         <div class="grid" >
             <div class="grid-sizer"></div>
             <div class="grid-item">
-                <a href="img/portfolio/8.jpg" data-lightbox="prince" data-title="Orange Tree">
-                    <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/orange-tree.jpg" />
+                <a href="img/portfolio/prince/1.png" data-lightbox="prince" data-title="Prince VR Experience">
+                    <img src="img/portfolio/prince/1.png" />
                 </a>
             </div>
             <div class="grid-item">
-                <a href="img/portfolio/7.jpg" data-lightbox="prince" data-title="Penguins">
-                    <img src="img/portfolio/7.jpg" />
+                <a href="img/portfolio/prince/2.png" data-lightbox="prince" data-title="Prince VR Experience">
+                    <img src="img/portfolio/prince/2.png" />
                 </a>
             </div>
             <div class="grid-item">
-                <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/look-out.jpg" />
+                <a href="img/portfolio/prince/3.png" data-lightbox="prince" data-title="Prince VR Experience">
+                    <img src="img/portfolio/prince/3.png" />
+                </a>
             </div>
             <div class="grid-item">
-                <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/one-world-trade.jpg" />
+                <a href="img/portfolio/prince/4.png" data-lightbox="prince" data-title="Prince VR Experience">
+                    <img src="img/portfolio/prince/4.png" />
+                </a>
             </div>
             <div class="grid-item">
-                <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/drizzle.jpg" />
+                <a href="img/portfolio/prince/5.png" data-lightbox="prince" data-title="Prince VR Experience">
+                    <img src="img/portfolio/prince/5.png" />
+                </a>
             </div>
             <div class="grid-item">
-                <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/cat-nose.jpg" />
+                <a href="img/portfolio/prince/6.png" data-lightbox="prince" data-title="Prince VR Experience">
+                    <img src="img/portfolio/prince/6.png" />
+                </a>
             </div>
         </div>
     </div>
     <div class="col s8 m5 l5 left">
         <h5>CBL PRINCE™ VR </h5>
+        <h6>Project Duration : 2 Months</h6>
         <hr class="left" style="width: 140px;"><br>
-        <!--           A Vivid Experience, Where Prince he lives in his castle. I made it-->
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique ut urna ut varius.
-        Mauris vel mattis diam, a pharetra lorem. Aliquam congue vestibulum sagittis. Praesent pulvinar libero quis metus vestibulum,
-        nascetur ridiculus mus. Donec porttitor lectus eu odio volutpat sollicitudin. Integer eget massa mollis, volutpat quam eget,
-        aliquet lorem.
+        CBL Prince™ VR Experience developed for Mall Activation in Karachi. All content from 3D Modelling to UE4 cooking process done by me.
     </div>
     <div class="col s4 m3 l3 left">
         <h5>Softwares Used</h5>
@@ -410,31 +416,44 @@
         <div class="grid" >
             <div class="grid-sizer"></div>
             <div class="grid-item">
-                <a href="img/portfolio/8.jpg" data-lightbox="prince" data-title="Orange Tree">
-                    <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/orange-tree.jpg" />
+                <a href="img/portfolio/tucVR/1.png" data-lightbox="prince" data-title="Prince VR Experience">
+                    <img src="img/portfolio/tucVR/1.png" />
                 </a>
             </div>
             <div class="grid-item">
-                <a href="img/portfolio/7.jpg" data-lightbox="prince" data-title="Penguins">
-                    <img src="img/portfolio/7.jpg" />
+                <a href="img/portfolio/tucVR/2.png" data-lightbox="prince" data-title="Prince VR Experience">
+                    <img src="img/portfolio/tucVR/2.png" />
                 </a>
             </div>
             <div class="grid-item">
-                <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/look-out.jpg" />
+                <a href="img/portfolio/tucVR/3.png" data-lightbox="prince" data-title="Prince VR Experience">
+                    <img src="img/portfolio/tucVR/3.png" />
+                </a>
             </div>
             <div class="grid-item">
-                <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/one-world-trade.jpg" />
+                <a href="img/portfolio/tucVR/4.png" data-lightbox="prince" data-title="Prince VR Experience">
+                    <img src="img/portfolio/tucVR/4.png" />
+                </a>
             </div>
             <div class="grid-item">
-                <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/drizzle.jpg" />
+                <a href="img/portfolio/tucVR/5.png" data-lightbox="prince" data-title="Prince VR Experience">
+                    <img src="img/portfolio/tucVR/5.png" />
+                </a>
+            </div><div class="grid-item">
+                <a href="img/portfolio/tucVR/6.png" data-lightbox="prince" data-title="Prince VR Experience">
+                    <img src="img/portfolio/tucVR/6.png" />
+                </a>
             </div>
             <div class="grid-item">
-                <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/cat-nose.jpg" />
+                <a href="img/portfolio/tucVR/7.png" data-lightbox="prince" data-title="Prince VR Experience">
+                    <img src="img/portfolio/tucVR/7.png" />
+                </a>
             </div>
         </div>
     </div>
     <div class="col s8 m5 l5 left">
         <h5>CBL TUC™ VR RIDE</h5>
+        <h6>Project Duration : 1 Month</h6>
         <hr class="left" style="width: 140px;"><br>
         TUC VR Ride is a VR experience developed for TUC LU™.
     </div>
@@ -454,35 +473,38 @@
         <div class="grid" >
             <div class="grid-sizer"></div>
             <div class="grid-item">
-                <a href="img/portfolio/8.jpg" data-lightbox="prince" data-title="Orange Tree">
-                    <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/orange-tree.jpg" />
+                <a href="img/portfolio/tucVending/1.jpg" data-lightbox="tucVending" data-title="TUC™ Vending Machine User Experience">
+                    <img src="img/portfolio/tucVending/1.jpg" />
                 </a>
             </div>
             <div class="grid-item">
-                <a href="img/portfolio/7.jpg" data-lightbox="prince" data-title="Penguins">
-                    <img src="img/portfolio/7.jpg" />
+                <a href="img/portfolio/tucVending/2.jpg" data-lightbox="tucVending" data-title="TUC™ Vending Machine User Experience">
+                    <img src="img/portfolio/tucVending/2.jpg" />
                 </a>
             </div>
             <div class="grid-item">
-                <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/look-out.jpg" />
+                <a href="img/portfolio/tucVending/3.jpg" data-lightbox="tucVending" data-title="TUC™ Vending Machine User Experience">
+                    <img src="img/portfolio/tucVending/3.jpg" />
+                </a>
             </div>
             <div class="grid-item">
-                <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/one-world-trade.jpg" />
-            </div>
-            <div class="grid-item">
-                <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/drizzle.jpg" />
-            </div>
-            <div class="grid-item">
-                <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/cat-nose.jpg" />
+                <a href="img/portfolio/tucVending/4.jpg" data-lightbox="tucVending" data-title="TUC™ Vending Machine User Experience">
+                    <img src="img/portfolio/tucVending/4.jpg" />
+                </a>
             </div>
         </div>
     </div>
     <div class="col s8 m5 l5 left">
         <h5>CBL TUC™ Vending Machine</h5>
+        <h6>Project Duration : 10 Days</h6>
         <hr class="left" style="width: 140px;"><br>
-        Vending Machine is one of the greatest interactive user experience that gave end user options of choosing favorite topping flavor.
+        Vending Machine is one of the greatest interactive user experience of our company that gave end user options of choosing favorite topping flavor.
         This is developed on Construct 2 platform for Android & Google Web store.
-        I developed it from start to end and finished it 3 days before deadline.
+        I developed it from start to end and finished it 3 days before deadline. <br> <strong>Please have a look at 3D Animation below.</strong>
+        <div class="col s12 l12 left">
+            <iframe src="https://player.vimeo.com/video/272310268" width="240" height="140" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+        </div>
     </div>
     <div class="col s4 m3 l3 left">
         <h5>Softwares Used</h5>
@@ -502,37 +524,45 @@
         <div class="grid" >
             <div class="grid-sizer"></div>
             <div class="grid-item">
-                <a href="img/portfolio/8.jpg" data-lightbox="prince" data-title="Orange Tree">
-                    <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/orange-tree.jpg" />
+                <a href="img/portfolio/bams/authorization.JPG" data-lightbox="bams" data-title="BAMS Admin Dashboard Authorization">
+                    <img src="img/portfolio/bams/authorization.JPG" />
                 </a>
             </div>
             <div class="grid-item">
-                <a href="img/portfolio/7.jpg" data-lightbox="prince" data-title="Penguins">
-                    <img src="img/portfolio/7.jpg" />
+                <a href="img/portfolio/bams/mobileAuth.JPG" data-lightbox="bams" data-title="BAMS Nodes side Authorization">
+                    <img src="img/portfolio/bams/mobileAuth.JPG" />
+                </a>
+            </div>
+
+            <div class="grid-item">
+                <a href="img/portfolio/bams/reports.JPG" data-lightbox="bams" data-title="BAMS Admin Report Panel">
+                    <img src="img/portfolio/bams/reports.JPG" />
                 </a>
             </div>
             <div class="grid-item">
-                <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/look-out.jpg" />
+                <a href="img/portfolio/bams/selection.JPG" data-lightbox="bams" data-title="BAMS Nodes side Submission Form ">
+                    <img src="img/portfolio/bams/selection.JPG" />
+                </a>
             </div>
             <div class="grid-item">
-                <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/one-world-trade.jpg" />
+                <a href="img/portfolio/bams/itemSelection.JPG" data-lightbox="bams" data-title="BAMS Nodes side SKU Selector">
+                    <img src="img/portfolio/bams/itemSelection.JPG" />
+                </a>
             </div>
             <div class="grid-item">
-                <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/drizzle.jpg" />
-            </div>
-            <div class="grid-item">
-                <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/cat-nose.jpg" />
+                <a href="img/portfolio/bams/dashboard.JPG" data-lightbox="bams" data-title="BAMS Admin Dashboard">
+                    <img src="img/portfolio/bams/dashboard.JPG" />
+                </a>
             </div>
         </div>
     </div>
     <div class="col s8 m5 l5 left">
         <h5>Brand Ambassador Management system [BAMS]</h5>
+        <h6>Project Duration : 2 Months</h6>
         <hr class="left" style="width: 400px;"><br>
-        <!--           A Vivid Experience, Where Prince he lives in his castle. I made it-->
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tristique ut urna ut varius.
-        Mauris vel mattis diam, a pharetra lorem. Aliquam congue vestibulum sagittis. Praesent pulvinar libero quis metus vestibulum,
-        nascetur ridiculus mus. Donec porttitor lectus eu odio volutpat sollicitudin. Integer eget massa mollis, volutpat quam eget,
-        aliquet lorem.
+        BAMS is a real-time on-field staff reporting system that control B.A entries and their performance.
+        It is currently being used by Emborg™ Mall activation across Pakistan and yield very good reports so far.
+        I developed it in Vue.js one of the most rapid development framework, Vuetify for UI, Figma for UX, Firebase for real-time Data.
     </div>
     <div class="col s4 m3 l3 left">
         <h5>Softwares Used</h5>
@@ -705,7 +735,7 @@
     </div>
     <div class="footer-copyright grey darken-3">
         <div class="container">
-            Made by <a class="brown-text text-lighten-3">Wajahat Mughal</a><a href="#!" class=" white-text right">2018</a>
+            Made by <a class="brown-text text-lighten-3">Wajahat Mughal</a><a href="#!" class=" white-text right"> @ 2018</a>
         </div>
     </div>
     <div class="footer-copyright grey darken-4">
