@@ -69,8 +69,10 @@
 <!--                    <img id="pinimg" src="img/base.png" alt="RADPIC" width="160" data-aos="zoom-in-right"/>-->
                 <h5><strong>ABOUT ME</strong></h5><hr id="hr-2" style="width: 300px;">
                 I have always been a video game enthusiast, in the past few years i have been working on VR Development
-                which fascinate me the most. I also improved my programming skills in various web development languages and frameworks along with 3D skills. I have 3+ years of
-                experience in VR Designer & Developer, and more than 6+ years in 3D Generalist, Front-end web development and [UX-UI] Development. I am
+                which fascinate me the most. I have also improved my programming skills in various web development languages and frameworks along with 3D skills.
+                I have 3+ years of experience in VR Designing & Development, More than 6+ years in 3D Generalist, Front-end web development and [UX-UI] Development.
+                I am looking for a great opportunity where i can grow my skills even more and challenge myself to take best out of me.
+                And also i am very eager to learn new technologies and techniques,
                 currently working in Karachi but open to relocate.
                 <br>
             </div>
@@ -79,12 +81,7 @@
             <div class="col s12 m12 l12" align="center">
                 <!--                    <img id="pinimg" src="img/base.png" alt="RADPIC" width="160" data-aos="zoom-in-right"/> -->
 <!--                <h5><strong>WHAT I DO & CAN DO</strong></h5><hr style="width: 300px;">-->
-                    <h5>Please have a look on my skills.    </h5>
-<!--                I am a challenge seeker and lifelong learner.<br>-->
-<!--                And a VR Simulation Artist and Developer currently working in a marketing agency which promotes brands & products of different companies.-->
-<!--                <br>-->
-<!--                I can also develop User-Experiences, Web Applications and Design Exhibition stands.<br><br>-->
-<!--                Please have a look on my skills & current portfolio.-->
+                    <h5>Please have a look on my skills.    </h5>gl
                 <br>
             </div>
         </div>
@@ -576,6 +573,46 @@
         </div>
     </div>
 </div>
+
+<!--Other Projects-->
+<!--<div class="row">-->
+<!--    <div class="col s12 m12 l12">-->
+<!--        <div class="grid" >-->
+<!--            <div class="grid-sizer"></div>-->
+<!--            <div class="grid-item">-->
+<!--                <a href="img/portfolio/bams/authorization.JPG" data-lightbox="bams" data-title="BAMS Admin Dashboard Authorization">-->
+<!--                    <img src="img/portfolio/bams/authorization.JPG" />-->
+<!--                </a>-->
+<!--            </div>-->
+<!--            <div class="grid-item">-->
+<!--                <a href="img/portfolio/bams/mobileAuth.JPG" data-lightbox="bams" data-title="BAMS Nodes side Authorization">-->
+<!--                    <img src="img/portfolio/bams/mobileAuth.JPG" />-->
+<!--                </a>-->
+<!--            </div>-->
+<!---->
+<!--            <div class="grid-item">-->
+<!--                <a href="img/portfolio/bams/reports.JPG" data-lightbox="bams" data-title="BAMS Admin Report Panel">-->
+<!--                    <img src="img/portfolio/bams/reports.JPG" />-->
+<!--                </a>-->
+<!--            </div>-->
+<!--            <div class="grid-item">-->
+<!--                <a href="img/portfolio/bams/selection.JPG" data-lightbox="bams" data-title="BAMS Nodes side Submission Form ">-->
+<!--                    <img src="img/portfolio/bams/selection.JPG" />-->
+<!--                </a>-->
+<!--            </div>-->
+<!--            <div class="grid-item">-->
+<!--                <a href="img/portfolio/bams/itemSelection.JPG" data-lightbox="bams" data-title="BAMS Nodes side SKU Selector">-->
+<!--                    <img src="img/portfolio/bams/itemSelection.JPG" />-->
+<!--                </a>-->
+<!--            </div>-->
+<!--            <div class="grid-item">-->
+<!--                <a href="img/portfolio/bams/dashboard.JPG" data-lightbox="bams" data-title="BAMS Admin Dashboard">-->
+<!--                    <img src="img/portfolio/bams/dashboard.JPG" />-->
+<!--                </a>-->
+<!--            </div>-->
+<!--        </div>-->
+<!--    </div>-->
+<!--</div>-->
 
 <!--========================================-->
 <!--E  X  P  E  R  I  E  N  C  E-->
