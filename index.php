@@ -328,6 +328,9 @@
 <!--        <div><img src="img/back/BG4.jpg" alt="Unsplashed background img 2"></div>-->
 </div>
 
+<!--======================================================================================-->
+<!--L  A  T  E  S  T    P  O  R  T  F  O  L  I  I  O-->
+<!--================================================================================-->
 <div class="container" >
     <div class="section">
         <div class="row">
@@ -339,8 +342,57 @@
         </div>
     </div>
 </div>
-<!--ShowReel VR-->
+<!--Z3MF-->
 <div class="row center hide-on-small-only" id="portfolio">
+    <div class="col s12 l12 left" >
+        <iframe src="mm/Z3mf.html" frameborder="0" webkitallowfullscreen mozallowfullscreen scrolling="no" style="overflow-y: hidden" allowfullscreen width="800" height="600"></iframe>
+    </div>
+</div>
+<!--Z3MF Details-->
+<div class="row">
+    <div class="col s12 m4 l4 left">
+        <div class="grid" >
+            <div class="grid-sizer"></div>
+            <div class="grid-item">
+                <a href="img/portfolio/z3mf/z3mf004.png" data-lightbox="prince" data-title="Prince VR Experience">
+                    <img src="img/portfolio/z3mf/z3mf004.png" />
+                </a>
+            </div>
+            <div class="grid-item">
+                <a href="img/portfolio/z3mf/z3mf001.png" data-lightbox="prince" data-title="Prince VR Experience">
+                    <img src="img/portfolio/z3mf/z3mf001.png" />
+                </a>
+            </div>
+            <div class="grid-item">
+                <a href="img/portfolio/z3mf/z3mf002.png" data-lightbox="prince" data-title="Prince VR Experience">
+                    <img src="img/portfolio/z3mf/z3mf002.png" />
+                </a>
+            </div>
+            <div class="grid-item">
+                <a href="img/portfolio/z3mf/z3mf003.png" data-lightbox="prince" data-title="Prince VR Experience">
+                    <img src="img/portfolio/z3mf/z3mf003.png" />
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="col s12 m5 l5 left">
+        <h5>Z3MF - Assault Rifle</h5>
+        <h6>Duration: 16 Hours</h6>
+        <hr class="left" style="width: 140px;"><br>
+        Futuristic Weapon
+    </div>
+    <div class="col s12 m3 l3 left">
+        <h5>Softwares Used</h5>
+        <hr class="left" style="width: 140px;"><br>
+        <div class="row">
+            <div class="col s4 m4 l4 center"><img width="32" src="img/icon/soft/3dsmax.png" /><h6 class="light">3Dsmax</h6><br></div>
+            <div class="col s4 m4 l4 center"><img width="32" src="img/icon/soft/substance.png" /><h6 class="light">Substance Painter</h6><br></div>
+            <div class="col s4 m4 l4 center"><img width="32" src="img/icon/soft/cc.png" /><h6 class="light">AdobeSuite</h6><br></div>
+        </div>
+    </div>
+</div>
+<!--ShowReel VR-->
+<div class="row center hide-on-small-only" style="background-color: #333" id="portfolio">
     <div class="col s12 l12 left">
         <iframe src="https://player.vimeo.com/video/119261068?color=00ffcc&title=0&byline=0&portrait=0" width="480" height="320" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
     </div>
@@ -352,7 +404,7 @@
     </div>
 </div>
 <!--Prince VR-->
-<div class="row">
+<div class="row" style="background-color: #333">
     <div class="col s12 m4 l4 left">
         <div class="grid" >
             <div class="grid-sizer"></div>
@@ -406,9 +458,9 @@
             <div class="col s4 m4 l4 center"><img width="32" src="img/icon/soft/Xn.png" /><h6 class="light">XNormal</h6><br></div>
         </div>
     </div>
-</div>
+</div   >
 <!--TUC VR Ride-->
-<div class="row">
+<div class="row" style="background-color: #333">
     <div class="col s12 m4 l4 left">
         <div class="grid" >
             <div class="grid-sizer"></div>
@@ -769,7 +821,7 @@
     </div>
     <div class="footer-copyright grey darken-3">
         <div class="container">
-            Made by <a class="brown-text text-lighten-3">Wajahat Mughal</a><a href="#!" class=" white-text right"> @ 2018</a>
+            Made by <a class="brown-text text-lighten-3">Wajahat Mughal</a><a href="#!" class=" white-text right"> ver .1.33 @ 2018</a>
         </div>
     </div>
     <div class="footer-copyright grey darken-4">
