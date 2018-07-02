@@ -47,7 +47,7 @@
             <div class="row center " style="margin-top: 26%" >
                 <h1 class="center white-text text-darken-3 text-shadow" data-aos="fade-up">Welcome</h1>
                 <h3 class="center white-text text-darken-3 text-shadow" data-aos="fade-up">I am Wajahat Mughal</h3>
-                <h5 class="header center light white-text text-darken-3 text-shadow" data-aos="fade-up" data-aos-delay="200">Full-stack VR Developer.</h5><br><br>
+                <h5 class="header center light white-text text-darken-3 text-shadow" data-aos="fade-up" data-aos-delay="200">3D Game Artist & Web Developer</h5><br><br>
             </div>
             <div class="row center" >
                 <a data-scroll data-aos="fade-up" data-aos-delay="100" href="#portfolio" id="download-button" class="btn waves-effect waves-light blue lighten-1" style="margin: 3px;"><i class="tiny material-icons left">book</i>Portfolio</a><br>
@@ -364,7 +364,7 @@
     </div>
 </div>
 <!--Z3MF-->
-<div class="row center hide-on-small-only" id="portfolio">
+<div class="row center" id="portfolio">
     <div class="col s12 l12 left" >
         <iframe src="mm/Z3mf.html" frameborder="0" webkitallowfullscreen mozallowfullscreen scrolling="no" style="overflow-y: hidden" allowfullscreen width="800" height="600"></iframe>
     </div>
@@ -375,33 +375,38 @@
         <div class="grid" >
             <div class="grid-sizer"></div>
             <div class="grid-item">
-                <a href="img/portfolio/z3mf/z3mf004.png" data-lightbox="prince" data-title="Prince VR Experience">
+                <a href="img/portfolio/z3mf/z3mf004.png" data-lightbox="z3mf" data-title="UVWs and Baked Maps">
                     <img src="img/portfolio/z3mf/z3mf004.png" />
                 </a>
             </div>
             <div class="grid-item">
-                <a href="img/portfolio/z3mf/z3mf001.png" data-lightbox="prince" data-title="Prince VR Experience">
+                <a href="img/portfolio/z3mf/z3mf001.png" data-lightbox="z3mf" data-title="Textured Low-poly Model">
                     <img src="img/portfolio/z3mf/z3mf001.png" />
                 </a>
             </div>
             <div class="grid-item">
-                <a href="img/portfolio/z3mf/z3mf002.png" data-lightbox="prince" data-title="Prince VR Experience">
+                <a href="img/portfolio/z3mf/z3mf002.png" data-lightbox="z3mf" data-title="Textured Low-poly Model">
                     <img src="img/portfolio/z3mf/z3mf002.png" />
                 </a>
             </div>
             <div class="grid-item">
-                <a href="img/portfolio/z3mf/z3mf003.png" data-lightbox="prince" data-title="Prince VR Experience">
+                <a href="img/portfolio/z3mf/z3mf003.png" data-lightbox="z3mf" data-title="Textured Low-poly Model">
                     <img src="img/portfolio/z3mf/z3mf003.png" />
+                </a>
+            </div>
+            <div class="grid-item">
+                <a href="img/portfolio/z3mf/z3mf005.png" data-lightbox="z3mf" data-title="Low vs High poly">
+                    <img src="img/portfolio/z3mf/z3mf005.png" />
                 </a>
             </div>
         </div>
     </div>
     <div class="col s12 m5 l5 left">
         <h5>Z3MF - Assault Rifle</h5>
-        <h6>Duration: 16 Hours</h6>
+        <h6>Duration: 32 Hours</h6>
         <hr class="left" style="width: 140px;"><br>
 
-        Z3MF is an automatic assault rifle. The Z3MF is a 5.56×45mm NATO, air-cooled, direct impingement gas-operated, magazine-fed.
+        Z3MF is an automatic assault rifle. The Z3MF is a 5.56?45mm NATO, air-cooled, direct impingement gas-operated, magazine-fed.
         It has a 26 inch barrel and a iron-sight stock. It also has a grenade launcher which fires 40mm x 46 HEPD-SD M99 (Point Detonating) grenade.
     </div>
     <div class="col s12 m3 l3 left">
@@ -414,6 +419,63 @@
         </div>
     </div>
 </div>
+
+<!--Dragunov-->
+<div class="row center " id="portfolio">
+    <div class="col s12 l12 left" >
+        <iframe src="mm/dragunov.html" frameborder="0" webkitallowfullscreen mozallowfullscreen scrolling="no" style="overflow-y: hidden" allowfullscreen width="800" height="600"></iframe>
+    </div>
+</div>
+<!--Dragunov Details-->
+<div class="row">
+    <div class="col s12 m4 l4 left">
+        <div class="grid" >
+            <div class="grid-sizer"></div>
+            <div class="grid-item">
+                <a href="img/portfolio/dragunov/dragunov-002.png" data-lightbox="dragunov" data-title="UVWs and Baked Maps">
+                    <img src="img/portfolio/dragunov/dragunov-002.png" />
+                </a>
+            </div>
+            <div class="grid-item">
+                <a href="img/portfolio/dragunov/dragunov-002.png" data-lightbox="dragunov" data-title="Textured Low-poly Model">
+                   <img src="img/portfolio/dragunov/dragunov-003.png" />
+                </a>
+            </div>
+            <div class="grid-item">
+                <a href="img/portfolio/dragunov/dragunov-002.png" data-lightbox="dragunov" data-title="Textured Low-poly Model">
+                    <img src="img/portfolio/dragunov/dragunov-004.png" />
+                </a>
+            </div>
+            <div class="grid-item">
+                <a href="img/portfolio/dragunov/dragunov-002.png" data-lightbox="dragunov" data-title="Textured Low-poly Model">
+                    <img src="img/portfolio/dragunov/dragunov-005.png" />
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="col s12 m5 l5 left">
+        <h5>Dragunov SVD - Sniper Rifle</h5>
+        <h6>Duration: 38 Hours</h6>
+        <hr class="left" style="width: 140px;"><br>
+            Dragunov SVD is a semi-automatic sniper/designated marksman rifle chambered in 7.62?54mmR.
+        </div>
+    <div class="col s12 m3 l3 left">
+        <h5>Softwares Used</h5>
+        <hr class="left" style="width: 140px;"><br>
+        <div class="row">
+            <div class="col s4 m4 l4 center"><img width="32" src="img/icon/soft/3dsmax.png" /><h6 class="light">3Ds Max</h6><br></div>
+            <div class="col s4 m4 l4 center"><img width="32" src="img/icon/soft/substance.png" /><h6 class="light">Substance Painter</h6><br></div>
+            <div class="col s4 m4 l4 center"><img width="32" src="img/icon/soft/cc.png" /><h6 class="light">AdobeSuite</h6><br></div>
+        </div>
+    </div>
+</div>
+
+
+<!--======================================================================================-->
+<!--  V  R    P  O  R  T  F  O  L  I  I  O-->
+<!--================================================================================-->
+
+
 <!--ShowReel VR-->
 <div class="row center hide-on-small-only" style="background-color: #333" id="portfolio">
     <div class="col s12 l12 left">
@@ -464,10 +526,10 @@
         </div>
     </div>
     <div class="col s12 m5 l5 left">
-        <h5>CBL PRINCE™ VR </h5>
+        <h5>CBL PRINCE? VR </h5>
         <h6>Project Duration : 2 Months</h6>
         <hr class="left" style="width: 140px;"><br>
-        CBL Prince™ VR Experience developed for Mall Activation in Karachi. All content from 3D Modelling to UE4 cooking process done by me.
+        CBL Prince? VR Experience developed for Mall Activation in Karachi. All content from 3D Modelling to UE4 cooking process done by me.
     </div>
     <div class="col s12 m3 l3 left">
         <h5>Softwares Used</h5>
@@ -524,10 +586,10 @@
         </div>
     </div>
     <div class="col s12 m5 l5 left">
-        <h5>CBL TUC™ VR RIDE</h5>
+        <h5>CBL TUC? VR RIDE</h5>
         <h6>Project Duration : 1 Month</h6>
         <hr class="left" style="width: 140px;"><br>
-        TUC VR Ride is a VR experience developed for TUC LU™.
+        TUC VR Ride is a VR experience developed for TUC LU?.
     </div>
     <div class="col s12 m3 l3 left">
         <h5>Softwares Used</h5>
@@ -545,29 +607,29 @@
         <div class="grid" >
             <div class="grid-sizer"></div>
             <div class="grid-item">
-                <a href="img/portfolio/tucVending/1.jpg" data-lightbox="tucVending" data-title="TUC™ Vending Machine User Experience">
+                <a href="img/portfolio/tucVending/1.jpg" data-lightbox="tucVending" data-title="TUC? Vending Machine User Experience">
                     <img src="img/portfolio/tucVending/1.jpg" />
                 </a>
             </div>
             <div class="grid-item">
-                <a href="img/portfolio/tucVending/2.jpg" data-lightbox="tucVending" data-title="TUC™ Vending Machine User Experience">
+                <a href="img/portfolio/tucVending/2.jpg" data-lightbox="tucVending" data-title="TUC? Vending Machine User Experience">
                     <img src="img/portfolio/tucVending/2.jpg" />
                 </a>
             </div>
             <div class="grid-item">
-                <a href="img/portfolio/tucVending/3.jpg" data-lightbox="tucVending" data-title="TUC™ Vending Machine User Experience">
+                <a href="img/portfolio/tucVending/3.jpg" data-lightbox="tucVending" data-title="TUC? Vending Machine User Experience">
                     <img src="img/portfolio/tucVending/3.jpg" />
                 </a>
             </div>
             <div class="grid-item">
-                <a href="img/portfolio/tucVending/4.jpg" data-lightbox="tucVending" data-title="TUC™ Vending Machine User Experience">
+                <a href="img/portfolio/tucVending/4.jpg" data-lightbox="tucVending" data-title="TUC? Vending Machine User Experience">
                     <img src="img/portfolio/tucVending/4.jpg" />
                 </a>
             </div>
         </div>
     </div>
     <div class="col s12 m5 l5 left">
-        <h5>CBL TUC™ Vending Machine</h5>
+        <h5>CBL TUC? Vending Machine</h5>
         <h6>Project Duration : 10 Days</h6>
         <hr class="left" style="width: 140px;"><br>
         Vending Machine is one of the greatest interactive user experience of our company that gave end user options of choosing favorite topping flavor.
@@ -633,7 +695,7 @@
         <h6>Project Duration : 2 Months</h6>
         <hr class="left" style="width: 120px;"><br>
         BAMS is a real-time on-field staff reporting system that control B.A entries and their performance.
-        It is currently being used by Emborg™ Mall activation across Pakistan and yield very good reports so far.
+        It is currently being used by Emborg? Mall activation across Pakistan and yield very good reports so far.
         I developed it in Vue.js one of the most rapid development framework, Vuetify for UI, Figma for UX, Firebase for real-time Data.
     </div>
     <div class="col s12 m3 l3 left">
@@ -718,11 +780,11 @@
                         Over Three years of experience in developing interactive media.
                     </h6>
                     <h6 class="right-align">
-                        • Produced 3D content for VR applications.<br>
-                        • Produced VR Experience.<br>
-                        • Researched and Developed new technologies.<br>
-                        • Developed UI & UX.<br>
-                        • Developed web applications.<br>
+                        ? Produced 3D content for VR applications.<br>
+                        ? Produced VR Experience.<br>
+                        ? Researched and Developed new technologies.<br>
+                        ? Developed UI & UX.<br>
+                        ? Developed web applications.<br>
                     </h6>
                 </div>
             </div>
@@ -740,9 +802,9 @@
                         Designing 3D models for architecture and Exhibition, 2D Artworks. I learn a lot here About Low & High Poly, Web Development and other graphics fundamentals.
                     </h6>
                     <h6>
-                        • Making static websites & 3D Stands.<br>
-                        • Designed UI & UX.<br>
-                        • Designed Artworks for Promotions.<br>
+                        ? Making static websites & 3D Stands.<br>
+                        ? Designed UI & UX.<br>
+                        ? Designed Artworks for Promotions.<br>
                     </h6>
                 </div>
             </div>
@@ -773,9 +835,9 @@
                         My First start as a junior graphics designer I learn alot here.
                     </h6>
                     <h6>
-                        • Designing 3D content for VR applications.<br>
-                        • Producing VR Experience.<br>
-                        • Developing web apps.<br>
+                        ? Designing 3D content for VR applications.<br>
+                        ? Producing VR Experience.<br>
+                        ? Developing web apps.<br>
                     </h6>
                 </div>
             </div>
@@ -787,8 +849,8 @@
                         I am currently working here
                     </h6>
                     <h6 class="right-align">
-                        • 3D Designs for Exhibition Events, Simulations.<br>
-                        • Developing Web apps & user Experiences.<br>
+                        ? 3D Designs for Exhibition Events, Simulations.<br>
+                        ? Developing Web apps & user Experiences.<br>
                     </h6>
                 </div>
             </div>
@@ -801,10 +863,10 @@
                         My start as a junior graphics designer. I learn a lot here About Low & High Poly, Web Development and other graphics fundamentals.
                     </h6>
                     <h6>
-                        • Developing static websites & 3D Stands.<br>
-                        • Designing UI & UX.<br>
-                        • Artworks for Brands Promotions.<br>
-                        • Maintaining Data Bases.<br>
+                        ? Developing static websites & 3D Stands.<br>
+                        ? Designing UI & UX.<br>
+                        ? Artworks for Brands Promotions.<br>
+                        ? Maintaining Data Bases.<br>
                     </h6>
                 </div>
             </div>
@@ -845,7 +907,7 @@
     </div>
     <div class="footer-copyright grey darken-3">
         <div class="container">
-            Made by <a class="brown-text text-lighten-3">Wajahat Mughal</a><a href="#!" class=" white-text right"> ver .1.33 @ 2018</a>
+            Made by <a class="brown-text text-lighten-3">Wajahat Mughal</a><a href="#!" class=" white-text right"> ver .1.42 @ 2018</a>
         </div>
     </div>
     <div class="footer-copyright grey darken-4">
