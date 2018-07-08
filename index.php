@@ -47,7 +47,7 @@
             <div class="row center " style="margin-top: 26%" >
                 <h1 class="center white-text text-darken-3 text-shadow" data-aos="fade-up">Welcome</h1>
                 <h3 class="center white-text text-darken-3 text-shadow" data-aos="fade-up">I am Wajahat Mughal</h3>
-                <h5 class="header center light white-text text-darken-3 text-shadow" data-aos="fade-up" data-aos-delay="200">Full-stack VR Developer.</h5><br><br>
+                <h5 class="header center light white-text text-darken-3 text-shadow" data-aos="fade-up" data-aos-delay="200">3D Game Artist & Web Developer</h5><br><br>
             </div>
             <div class="row center" >
                 <a data-scroll data-aos="fade-up" data-aos-delay="100" href="#portfolio" id="download-button" class="btn waves-effect waves-light blue lighten-1" style="margin: 3px;"><i class="tiny material-icons left">book</i>Portfolio</a><br>
@@ -68,7 +68,7 @@
             <div class="col s12 m12 l12" align="center">
 <!--                    <img id="pinimg" src="img/base.png" alt="RADPIC" width="160" data-aos="zoom-in-right"/>-->
                 <h5><strong>ABOUT ME</strong></h5><hr id="hr-2" style="width: 300px;">
-                I have always been a video game enthusiast, in the past few years i have been working on VR Development
+                I have always been a video game enthusiast, in the past few years I have been working on VR Development
                 which fascinate me the most. I have also improved my programming skills in various web development languages and frameworks along with 3D skills.
                 I have 3+ years of experience in VR Designing & Development, More than 6+ years in 3D Generalist, Front-end web development and [UX-UI] Development.
                 I am looking for a great opportunity where i can grow my skills even more and challenge myself to take best out of me.
@@ -81,7 +81,7 @@
             <div class="col s12 m12 l12" align="center">
                 <!--                    <img id="pinimg" src="img/base.png" alt="RADPIC" width="160" data-aos="zoom-in-right"/> -->
 <!--                <h5><strong>WHAT I DO & CAN DO</strong></h5><hr style="width: 300px;">-->
-                    <h5>Please have a look on my skills.    </h5>gl
+                    <h5>Please have a look on my skills & portfolio.    </h5>
                 <br>
             </div>
         </div>
@@ -100,62 +100,74 @@
                     <hr style="width: 300px;"><br><br><br>
                 </div>
                 <div class="col s6 l3" data-aos="zoom-in" data-aos-delay="300" align="left">
-                    <img src="img/icon/soft/Ue4.png" /><h5 class="light">Unreal Engine 4</h5><h6>82%</h6>
-                    <div id="progress"><div id="progressThumb" data-aos="zoom-in-right" data-aos-delay="500" style="width: 82%;" >&nbsp;</div></div>
+                    <img src="img/icon/soft/Ue4.png" /><h5 class="light">Unreal Engine 4</h5>
+<!--                    <h6>82%</h6>-->
+<!--                    <div id="progress"><div id="progressThumb" data-aos="zoom-in-right" data-aos-delay="500" style="width: 82%;" >&nbsp;</div></div>-->
+                </div>
+                <div class="col s6 l3" data-aos="zoom-in" data-aos-delay="400" align="left">
+                    <img src="img/icon/soft/3dsmax.png" /><h5 class="light">3dsmax</h5>
+<!--                    <h6>88%</h6>-->
+<!--                    <div id="progress"><div id="progressThumb" data-aos="zoom-in-right" data-aos-delay="500" style="width: 88%;">&nbsp;</div></div>-->
                 </div>
                 <div class="col s6 l3" data-aos="zoom-in" data-aos-delay="500" align="left">
-                    <img src="img/icon/soft/3dsmax.png" /><h5 class="light">3dsmax</h5><h6>88%</h6>
-                    <div id="progress"><div id="progressThumb" data-aos="zoom-in-right" data-aos-delay="500" style="width: 88%;">&nbsp;</div></div>
+                    <img src="img/icon/soft/zb.png" /><h5 class="light">ZBrush</h5>
+<!--                    <h6>76%</h6>-->
+<!--                    <div id="progress"><div id="progressThumb" data-aos="zoom-in-right" data-aos-delay="500" style="width: 76%;" >&nbsp;</div></div>-->
                 </div>
-                <div class="col s6 l3" data-aos="zoom-in" data-aos-delay="300" align="left">
-                    <img src="img/icon/soft/zb.png" /><h5 class="light">ZBrush</h5><h6>76%</h6>
-                    <div id="progress"><div id="progressThumb" data-aos="zoom-in-right" data-aos-delay="500" style="width: 76%;" >&nbsp;</div></div>
-                </div>
-                <div class="col s6 l3" data-aos="zoom-in" data-aos-delay="900" align="left">
-                    <img src="img/icon/soft/cc.png" /><h5 class="light">Adobe Suite</h5><h6>88%</h6>
-                    <div id="progress" ><div id="progressThumb" data-aos="zoom-in-right-right" data-aos-delay="500" style="width: 88%;">&nbsp;</div></div>
+                <div class="col s6 l3" data-aos="zoom-in" data-aos-delay="600" align="left">
+                    <img src="img/icon/soft/substance.png" /><h5 class="light">Substance Painter</h5>
+<!--                    <h6>60%</h6>-->
+<!--                    <div id="progress"><div id="progressThumb" data-aos="zoom-in-right" data-aos-delay="500" style="width: 92%;">&nbsp;</div></div>-->
                 </div>
             </div><br>
             <!--  R  O  W     #    02   -->
             <div class="row" data-aos="zoom-in-down">
             </div>
             <div class="row center">
-                <div class="col s6 l3" data-aos="zoom-in" data-aos-delay="700" align="left">
-                    <img src="img/icon/soft/vred.png" /><h5 class="light">VRED</h5><h6>70%</h6>
-                    <div id="progress"><div id="progressThumb" data-aos="zoom-in-right" data-aos-delay="500" style="width: 70%;";>&nbsp;</div></div>
+                <div class="col s6 l3" data-aos="zoom-in" data-aos-delay="400" align="left">
+                    <img src="img/icon/soft/vred.png" /><h5 class="light">VRED</h5>
+<!--                    <h6>70%</h6>-->
+<!--                    <div id="progress"><div id="progressThumb" data-aos="zoom-in-right" data-aos-delay="500" style="width: 70%;";>&nbsp;</div></div>-->
                 </div>
                 <div class="col s6 l3" data-aos="zoom-in" data-aos-delay="500" align="left">
-                    <img src="img/icon/soft/figma.png" /><h5 class="light">Figma</h5><h6>85%</h6>
-                    <div id="progress"><div id="progressThumb" data-aos="zoom-in-right" data-aos-delay="500" style="width: 85%;">&nbsp;</div></div>
+                    <img src="img/icon/soft/cc.png" /><h5 class="light">Adobe Suite</h5>
+<!--                    <h6>88%</h6>-->
+<!--                    <div id="progress" ><div id="progressThumb" data-aos="zoom-in-right-right" data-aos-delay="500" style="width: 88%;">&nbsp;</div></div>-->
+                </div>
+                <div class="col s6 l3" data-aos="zoom-in" data-aos-delay="600" align="left">
+                    <img src="img/icon/soft/Qds.png" /><h5 class="light">Quixel DDO</h5>
+<!--                    <h6>66%</h6>-->
+<!--                    <div id="progress"><div id="progressThumb" data-aos="zoom-in-right" data-aos-delay="500" style="width: 66%;";>&nbsp;</div></div>-->
                 </div>
                 <div class="col s6 l3" data-aos="zoom-in" data-aos-delay="700" align="left">
-                    <img src="img/icon/soft/Qds.png" /><h5 class="light">Quixel DDO</h5><h6>66%</h6>
-                    <div id="progress"><div id="progressThumb" data-aos="zoom-in-right" data-aos-delay="500" style="width: 66%;";>&nbsp;</div></div>
-                </div>
-                <div class="col s6 l3" data-aos="zoom-in" data-aos-delay="900" align="left">
-                    <img src="img/icon/soft/Vray.png" /><h5 class="light">VRAY</h5><h6>80%</h6>
-                    <div id="progress"><div id="progressThumb" data-aos="zoom-in-right" data-aos-delay="500" style="width: 80%;">&nbsp;</div></div>
+                    <img src="img/icon/soft/Vray.png" /><h5 class="light">VRAY</h5>
+<!--                    <h6>80%</h6>-->
+<!--                    <div id="progress"><div id="progressThumb" data-aos="zoom-in-right" data-aos-delay="500" style="width: 80%;">&nbsp;</div></div>-->
                 </div>
             </div><br>
             <!--  R  O  W     #    03   -->
             <div class="row" data-aos="zoom-in-down">
             </div>
             <div class="row center">
-                <div class="col s6 l3" data-aos="zoom-in" data-aos-delay="300" align="left">
-                    <img src="img/icon/soft/marmoset.png" /><h5 class="light">Marmoset Toolbag</h5><h6>80%</h6>
-                    <div id="progress"><div id="progressThumb" data-aos="zoom-in-right" data-aos-delay="500" style="width: 80%;" >&nbsp;</div></div>
+                <div class="col s6 l3" data-aos="zoom-in" data-aos-delay="500" align="left">
+                    <img src="img/icon/soft/marmoset.png" /><h5 class="light">Marmoset Toolbag</h5>
+<!--                    <h6>80%</h6>-->
+<!--                    <div id="progress"><div id="progressThumb" data-aos="zoom-in-right" data-aos-delay="500" style="width: 80%;" >&nbsp;</div></div>-->
                 </div>
-<!--                <div class="col s6 l3" data-aos="zoom-in" data-aos-delay="500" align="left">-->
-<!--                    <img src="img/icon/soft/Cb.png" /><h5 class="light">Crazy Bump</h5><h6>92%</h6>-->
-<!--                    <div id="progress"><div id="progressThumb" data-aos="zoom-in-right" data-aos-delay="500" style="width: 92%;">&nbsp;</div></div>-->
-<!--                </div>-->
+                <div class="col s6 l3" data-aos="zoom-in" data-aos-delay="600" align="left">
+                    <img src="img/icon/soft/figma.png" /><h5 class="light">Figma</h5>
+<!--                    <h6>85%</h6>-->
+<!--                    <div id="progress"><div id="progressThumb" data-aos="zoom-in-right" data-aos-delay="500" style="width: 85%;">&nbsp;</div></div>-->
+                </div>
                 <div class="col s6 l3" data-aos="zoom-in" data-aos-delay="700" align="left">
-                    <img src="img/icon/soft/Xn.png" /><h5 class="light">XNormal</h5><h6>78%</h6>
-                    <div id="progress"><div id="progressThumb" data-aos="zoom-in-right" data-aos-delay="500" style="width: 78%;";>&nbsp;</div></div>
+                    <img src="img/icon/soft/Xn.png" /><h5 class="light">XNormal</h5>
+<!--                    <h6>78%</h6>-->
+<!--                    <div id="progress"><div id="progressThumb" data-aos="zoom-in-right" data-aos-delay="500" style="width: 78%;";>&nbsp;</div></div>-->
                 </div>
                 <div class="col s6 l3" data-aos="zoom-in" data-aos-delay="900" align="left">
-                    <img src="img/icon/soft/C2.png" /><h5 class="light">Construct 2</h5><h6>86%</h6>
-                    <div id="progress"><div id="progressThumb" data-aos="zoom-in-right" data-aos-delay="500" style="width: 86%;">&nbsp;</div></div>
+                    <img src="img/icon/soft/C2.png" /><h5 class="light">Construct 2</h5>
+<!--                    <h6>86%</h6>-->
+<!--                    <div id="progress"><div id="progressThumb" data-aos="zoom-in-right" data-aos-delay="500" style="width: 86%;">&nbsp;</div></div>-->
                 </div>
 
             </div><br><br>
@@ -171,46 +183,55 @@
             </div>
             <div class="row center">
                 <div class="col s6 l3" data-aos="zoom-in" data-aos-delay="300" align="left">
-                    <img src="img/icon/soft/vue.png" /><h5 class="light">Vue.js</h5><h6>60%</h6>
-                    <div id="progress"><div id="progressThumb" data-aos="zoom-in-right" data-aos-delay="500" style="width: 60%;" >&nbsp;</div></div>
+                    <img src="img/icon/soft/vue.png" /><h5 class="light">Vue.js</h5>
+<!--                    <h6>60%</h6>-->
+<!--                    <div id="progress"><div id="progressThumb" data-aos="zoom-in-right" data-aos-delay="500" style="width: 60%;" >&nbsp;</div></div>-->
                 </div>
                 <div class="col s6 l3" data-aos="zoom-in" data-aos-delay="300"  align="left">
-                    <img src="img/icon/soft/firebase.png" /><h5 class="light">Firebase</h5><h6>70%</h6>
-                    <div id="progress"><div id="progressThumb" data-aos="zoom-in-right" data-aos-delay="500" style="width: 70%;">&nbsp;</div></div>
+                    <img src="img/icon/soft/firebase.png" /><h5 class="light">Firebase</h5>
+<!--                    <h6>70%</h6>-->
+<!--                    <div id="progress"><div id="progressThumb" data-aos="zoom-in-right" data-aos-delay="500" style="width: 70%;">&nbsp;</div></div>-->
                 </div>
                 <div class="col s6 l3" data-aos="zoom-in" data-aos-delay="300"  align="left">
-                    <img src="img/icon/soft/webpack.png" /><h5 class="light">Webpack</h5><h6>50%</h6>
-                    <div id="progress"><div id="progressThumb" data-aos="zoom-in-right" data-aos-delay="500" style="width: 50%;">&nbsp;</div></div>
+                    <img src="img/icon/soft/webpack.png" /><h5 class="light">Webpack</h5>
+<!--                    <h6>50%</h6>-->
+<!--                    <div id="progress"><div id="progressThumb" data-aos="zoom-in-right" data-aos-delay="500" style="width: 50%;">&nbsp;</div></div>-->
                 </div>
                 <div class="col s6 l3" data-aos="zoom-in" data-aos-delay="300"  align="left">
-                    <img src="img/icon/soft/php.png" /><h5 class="light">PHP</h5><h6>60%</h6>
-                    <div id="progress"><div id="progressThumb" data-aos="zoom-in-right" data-aos-delay="500" style="width: 60%;">&nbsp;</div></div>
+                    <img src="img/icon/soft/php.png" /><h5 class="light">PHP</h5>
+<!--                    <h6>60%</h6>-->
+<!--                    <div id="progress"><div id="progressThumb" data-aos="zoom-in-right" data-aos-delay="500" style="width: 60%;">&nbsp;</div></div>-->
                 </div>
             </div>
             <div class="row center">
-                <div class="col s6 l3" data-aos="zoom-in" data-aos-delay="700" align="left">
-                    <img src="img/icon/soft/html.png" /><h5 class="light">HTML 5</h5><h6>90%</h6>
-                    <div id="progress"><div id="progressThumb" data-aos="zoom-in-right" data-aos-delay="500" style="width: 90%;">&nbsp;</div></div>
+                <div class="col s6 l3" data-aos="zoom-in" data-aos-delay="400" align="left">
+                    <img src="img/icon/soft/html.png" /><h5 class="light">HTML 5</h5>
+<!--                    <h6>90%</h6>-->
+<!--                    <div id="progress"><div id="progressThumb" data-aos="zoom-in-right" data-aos-delay="500" style="width: 90%;">&nbsp;</div></div>-->
                 </div>
-                <div class="col s6 l3" data-aos="zoom-in" data-aos-delay="300" align="left">
-                    <img src="img/icon/soft/css.png" /><h5 class="light">CSS</h5><h6>80%</h6>
-                    <div id="progress"><div id="progressThumb" data-aos="zoom-in-right" data-aos-delay="500" style="width: 80%;" >&nbsp;</div></div>
+                <div class="col s6 l3" data-aos="zoom-in" data-aos-delay="500" align="left">
+                    <img src="img/icon/soft/css.png" /><h5 class="light">CSS</h5>
+<!--                    <h6>80%</h6>-->
+<!--                    <div id="progress"><div id="progressThumb" data-aos="zoom-in-right" data-aos-delay="500" style="width: 80%;" >&nbsp;</div></div>-->
                 </div>
-                <div class="col s6 l3" data-aos="zoom-in" data-aos-delay="300" align="left">
-                    <img src="img/icon/soft/js.png" /><h5 class="light">Java Script</h5><h6>63%</h6>
-                    <div id="progress"><div id="progressThumb" data-aos="zoom-in-right" data-aos-delay="500" style="width: 63%;" >&nbsp;</div></div>
+                <div class="col s6 l3" data-aos="zoom-in" data-aos-delay="600" align="left">
+                    <img src="img/icon/soft/js.png" /><h5 class="light">Java Script</h5>
+<!--                    <h6>63%</h6>-->
+<!--                    <div id="progress"><div id="progressThumb" data-aos="zoom-in-right" data-aos-delay="500" style="width: 63%;" >&nbsp;</div></div>-->
                 </div>
-                <div class="col s6 l3" data-aos="zoom-in" data-aos-delay="300"  align="left">
-                    <img src="img/icon/soft/Mysql.png" /><h5 class="light">Mysql</h5><h6>60%</h6>
-                    <div id="progress"><div id="progressThumb" data-aos="zoom-in-right" data-aos-delay="500" style="width: 60%;">&nbsp;</div></div>
+                <div class="col s6 l3" data-aos="zoom-in" data-aos-delay="700"  align="left">
+                    <img src="img/icon/soft/Mysql.png" /><h5 class="light">Mysql</h5>
+<!--                    <h6>60%</h6>-->
+<!--                    <div id="progress"><div id="progressThumb" data-aos="zoom-in-right" data-aos-delay="500" style="width: 60%;">&nbsp;</div></div>-->
                 </div>
             </div>
             <div class="row" data-aos="zoom-in-down">
             </div><br><br>
             <div class="row center">
-                <div class="col s6 l3" data-aos="zoom-in" data-aos-delay="300"  align="left">
-                    <img src="img/icon/soft/csharp.png" /><h5 class="light">C-Sharp</h5><h6>60%</h6>
-                    <div id="progress"><div id="progressThumb" data-aos="zoom-in-right" data-aos-delay="500" style="width: 60%;">&nbsp;</div></div>
+                <div class="col s6 l3" data-aos="zoom-in" data-aos-delay="800"  align="left">
+                    <img src="img/icon/soft/csharp.png" /><h5 class="light">C-Sharp</h5>
+<!--                    <h6>60%</h6>-->
+<!--                    <div id="progress"><div id="progressThumb" data-aos="zoom-in-right" data-aos-delay="500" style="width: 60%;">&nbsp;</div></div>-->
                 </div>
             </div>
         </div><br><br><br>
@@ -343,7 +364,7 @@
     </div>
 </div>
 <!--Z3MF-->
-<div class="row center hide-on-small-only" id="portfolio">
+<div class="row center" id="portfolio">
     <div class="col s12 l12 left" >
         <iframe src="mm/Z3mf.html" frameborder="0" webkitallowfullscreen mozallowfullscreen scrolling="no" style="overflow-y: hidden" allowfullscreen width="800" height="600"></iframe>
     </div>
@@ -354,43 +375,107 @@
         <div class="grid" >
             <div class="grid-sizer"></div>
             <div class="grid-item">
-                <a href="img/portfolio/z3mf/z3mf004.png" data-lightbox="prince" data-title="Prince VR Experience">
+                <a href="img/portfolio/z3mf/z3mf004.png" data-lightbox="z3mf" data-title="UVWs and Baked Maps">
                     <img src="img/portfolio/z3mf/z3mf004.png" />
                 </a>
             </div>
             <div class="grid-item">
-                <a href="img/portfolio/z3mf/z3mf001.png" data-lightbox="prince" data-title="Prince VR Experience">
+                <a href="img/portfolio/z3mf/z3mf001.png" data-lightbox="z3mf" data-title="Textured Low-poly Model">
                     <img src="img/portfolio/z3mf/z3mf001.png" />
                 </a>
             </div>
             <div class="grid-item">
-                <a href="img/portfolio/z3mf/z3mf002.png" data-lightbox="prince" data-title="Prince VR Experience">
+                <a href="img/portfolio/z3mf/z3mf002.png" data-lightbox="z3mf" data-title="Textured Low-poly Model">
                     <img src="img/portfolio/z3mf/z3mf002.png" />
                 </a>
             </div>
             <div class="grid-item">
-                <a href="img/portfolio/z3mf/z3mf003.png" data-lightbox="prince" data-title="Prince VR Experience">
+                <a href="img/portfolio/z3mf/z3mf003.png" data-lightbox="z3mf" data-title="Textured Low-poly Model">
                     <img src="img/portfolio/z3mf/z3mf003.png" />
+                </a>
+            </div>
+            <div class="grid-item">
+                <a href="img/portfolio/z3mf/z3mf005.png" data-lightbox="z3mf" data-title="Low vs High poly">
+                    <img src="img/portfolio/z3mf/z3mf005.png" />
                 </a>
             </div>
         </div>
     </div>
     <div class="col s12 m5 l5 left">
         <h5>Z3MF - Assault Rifle</h5>
-        <h6>Duration: 16 Hours</h6>
+        <h6>Duration: 32 Hours</h6>
         <hr class="left" style="width: 140px;"><br>
-        Futuristic Weapon
+
+        Z3MF is an automatic assault rifle. The Z3MF is a 5.56?45mm NATO, air-cooled, direct impingement gas-operated, magazine-fed.
+        It has a 26 inch barrel and a iron-sight stock. It also has a grenade launcher which fires 40mm x 46 HEPD-SD M99 (Point Detonating) grenade.
     </div>
     <div class="col s12 m3 l3 left">
         <h5>Softwares Used</h5>
         <hr class="left" style="width: 140px;"><br>
         <div class="row">
-            <div class="col s4 m4 l4 center"><img width="32" src="img/icon/soft/3dsmax.png" /><h6 class="light">3Dsmax</h6><br></div>
+            <div class="col s4 m4 l4 center"><img width="32" src="img/icon/soft/3dsmax.png" /><h6 class="light">3Ds Max</h6><br></div>
             <div class="col s4 m4 l4 center"><img width="32" src="img/icon/soft/substance.png" /><h6 class="light">Substance Painter</h6><br></div>
             <div class="col s4 m4 l4 center"><img width="32" src="img/icon/soft/cc.png" /><h6 class="light">AdobeSuite</h6><br></div>
         </div>
     </div>
 </div>
+
+<!--Dragunov-->
+<div class="row center " id="portfolio">
+    <div class="col s12 l12 left" >
+        <iframe src="mm/dragunov.html" frameborder="0" webkitallowfullscreen mozallowfullscreen scrolling="no" style="overflow-y: hidden" allowfullscreen width="800" height="600"></iframe>
+    </div>
+</div>
+<!--Dragunov Details-->
+<div class="row">
+    <div class="col s12 m4 l4 left">
+        <div class="grid" >
+            <div class="grid-sizer"></div>
+            <div class="grid-item">
+                <a href="img/portfolio/dragunov/dragunov-002.png" data-lightbox="dragunov" data-title="UVWs and Baked Maps">
+                    <img src="img/portfolio/dragunov/dragunov-002.png" />
+                </a>
+            </div>
+            <div class="grid-item">
+                <a href="img/portfolio/dragunov/dragunov-002.png" data-lightbox="dragunov" data-title="Textured Low-poly Model">
+                   <img src="img/portfolio/dragunov/dragunov-003.png" />
+                </a>
+            </div>
+            <div class="grid-item">
+                <a href="img/portfolio/dragunov/dragunov-002.png" data-lightbox="dragunov" data-title="Textured Low-poly Model">
+                    <img src="img/portfolio/dragunov/dragunov-004.png" />
+                </a>
+            </div>
+            <div class="grid-item">
+                <a href="img/portfolio/dragunov/dragunov-002.png" data-lightbox="dragunov" data-title="Textured Low-poly Model">
+                    <img src="img/portfolio/dragunov/dragunov-005.png" />
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="col s12 m5 l5 left">
+        <h5>Dragunov SVD - Sniper Rifle</h5>
+        <h6>Duration: 38 Hours</h6>
+        <hr class="left" style="width: 140px;"><br>
+            Dragunov SVD is a semi-automatic sniper/designated marksman rifle chambered in 7.62?54mmR.
+        </div>
+    <div class="col s12 m3 l3 left">
+        <h5>Softwares Used</h5>
+        <hr class="left" style="width: 140px;"><br>
+        <div class="row">
+            <div class="col s4 m4 l4 center"><img width="32" src="img/icon/soft/3dsmax.png" /><h6 class="light">3Ds Max</h6><br></div>
+            <div class="col s4 m4 l4 center"><img width="32" src="img/icon/soft/substance.png" /><h6 class="light">Substance Painter</h6><br></div>
+            <div class="col s4 m4 l4 center"><img width="32" src="img/icon/soft/cc.png" /><h6 class="light">AdobeSuite</h6><br></div>
+        </div>
+    </div>
+</div>
+
+
+<!--======================================================================================-->
+<!--  V  R    P  O  R  T  F  O  L  I  I  O-->
+<!--================================================================================-->
+
+
 <!--ShowReel VR-->
 <div class="row center hide-on-small-only" style="background-color: #333" id="portfolio">
     <div class="col s12 l12 left">
@@ -441,10 +526,10 @@
         </div>
     </div>
     <div class="col s12 m5 l5 left">
-        <h5>CBL PRINCE™ VR </h5>
+        <h5>CBL PRINCE? VR </h5>
         <h6>Project Duration : 2 Months</h6>
         <hr class="left" style="width: 140px;"><br>
-        CBL Prince™ VR Experience developed for Mall Activation in Karachi. All content from 3D Modelling to UE4 cooking process done by me.
+        CBL Prince? VR Experience developed for Mall Activation in Karachi. All content from 3D Modelling to UE4 cooking process done by me.
     </div>
     <div class="col s12 m3 l3 left">
         <h5>Softwares Used</h5>
@@ -501,10 +586,10 @@
         </div>
     </div>
     <div class="col s12 m5 l5 left">
-        <h5>CBL TUC™ VR RIDE</h5>
+        <h5>CBL TUC? VR RIDE</h5>
         <h6>Project Duration : 1 Month</h6>
         <hr class="left" style="width: 140px;"><br>
-        TUC VR Ride is a VR experience developed for TUC LU™.
+        TUC VR Ride is a VR experience developed for TUC LU?.
     </div>
     <div class="col s12 m3 l3 left">
         <h5>Softwares Used</h5>
@@ -522,29 +607,29 @@
         <div class="grid" >
             <div class="grid-sizer"></div>
             <div class="grid-item">
-                <a href="img/portfolio/tucVending/1.jpg" data-lightbox="tucVending" data-title="TUC™ Vending Machine User Experience">
+                <a href="img/portfolio/tucVending/1.jpg" data-lightbox="tucVending" data-title="TUC? Vending Machine User Experience">
                     <img src="img/portfolio/tucVending/1.jpg" />
                 </a>
             </div>
             <div class="grid-item">
-                <a href="img/portfolio/tucVending/2.jpg" data-lightbox="tucVending" data-title="TUC™ Vending Machine User Experience">
+                <a href="img/portfolio/tucVending/2.jpg" data-lightbox="tucVending" data-title="TUC? Vending Machine User Experience">
                     <img src="img/portfolio/tucVending/2.jpg" />
                 </a>
             </div>
             <div class="grid-item">
-                <a href="img/portfolio/tucVending/3.jpg" data-lightbox="tucVending" data-title="TUC™ Vending Machine User Experience">
+                <a href="img/portfolio/tucVending/3.jpg" data-lightbox="tucVending" data-title="TUC? Vending Machine User Experience">
                     <img src="img/portfolio/tucVending/3.jpg" />
                 </a>
             </div>
             <div class="grid-item">
-                <a href="img/portfolio/tucVending/4.jpg" data-lightbox="tucVending" data-title="TUC™ Vending Machine User Experience">
+                <a href="img/portfolio/tucVending/4.jpg" data-lightbox="tucVending" data-title="TUC? Vending Machine User Experience">
                     <img src="img/portfolio/tucVending/4.jpg" />
                 </a>
             </div>
         </div>
     </div>
     <div class="col s12 m5 l5 left">
-        <h5>CBL TUC™ Vending Machine</h5>
+        <h5>CBL TUC? Vending Machine</h5>
         <h6>Project Duration : 10 Days</h6>
         <hr class="left" style="width: 140px;"><br>
         Vending Machine is one of the greatest interactive user experience of our company that gave end user options of choosing favorite topping flavor.
@@ -610,7 +695,7 @@
         <h6>Project Duration : 2 Months</h6>
         <hr class="left" style="width: 120px;"><br>
         BAMS is a real-time on-field staff reporting system that control B.A entries and their performance.
-        It is currently being used by Emborg™ Mall activation across Pakistan and yield very good reports so far.
+        It is currently being used by Emborg? Mall activation across Pakistan and yield very good reports so far.
         I developed it in Vue.js one of the most rapid development framework, Vuetify for UI, Figma for UX, Firebase for real-time Data.
     </div>
     <div class="col s12 m3 l3 left">
@@ -695,11 +780,11 @@
                         Over Three years of experience in developing interactive media.
                     </h6>
                     <h6 class="right-align">
-                        • Produced 3D content for VR applications.<br>
-                        • Produced VR Experience.<br>
-                        • Researched and Developed new technologies.<br>
-                        • Developed UI & UX.<br>
-                        • Developed web applications.<br>
+                        ? Produced 3D content for VR applications.<br>
+                        ? Produced VR Experience.<br>
+                        ? Researched and Developed new technologies.<br>
+                        ? Developed UI & UX.<br>
+                        ? Developed web applications.<br>
                     </h6>
                 </div>
             </div>
@@ -717,9 +802,9 @@
                         Designing 3D models for architecture and Exhibition, 2D Artworks. I learn a lot here About Low & High Poly, Web Development and other graphics fundamentals.
                     </h6>
                     <h6>
-                        • Making static websites & 3D Stands.<br>
-                        • Designed UI & UX.<br>
-                        • Designed Artworks for Promotions.<br>
+                        ? Making static websites & 3D Stands.<br>
+                        ? Designed UI & UX.<br>
+                        ? Designed Artworks for Promotions.<br>
                     </h6>
                 </div>
             </div>
@@ -750,9 +835,9 @@
                         My First start as a junior graphics designer I learn alot here.
                     </h6>
                     <h6>
-                        • Designing 3D content for VR applications.<br>
-                        • Producing VR Experience.<br>
-                        • Developing web apps.<br>
+                        ? Designing 3D content for VR applications.<br>
+                        ? Producing VR Experience.<br>
+                        ? Developing web apps.<br>
                     </h6>
                 </div>
             </div>
@@ -764,8 +849,8 @@
                         I am currently working here
                     </h6>
                     <h6 class="right-align">
-                        • 3D Designs for Exhibition Events, Simulations.<br>
-                        • Developing Web apps & user Experiences.<br>
+                        ? 3D Designs for Exhibition Events, Simulations.<br>
+                        ? Developing Web apps & user Experiences.<br>
                     </h6>
                 </div>
             </div>
@@ -778,10 +863,10 @@
                         My start as a junior graphics designer. I learn a lot here About Low & High Poly, Web Development and other graphics fundamentals.
                     </h6>
                     <h6>
-                        • Developing static websites & 3D Stands.<br>
-                        • Designing UI & UX.<br>
-                        • Artworks for Brands Promotions.<br>
-                        • Maintaining Data Bases.<br>
+                        ? Developing static websites & 3D Stands.<br>
+                        ? Designing UI & UX.<br>
+                        ? Artworks for Brands Promotions.<br>
+                        ? Maintaining Data Bases.<br>
                     </h6>
                 </div>
             </div>
@@ -798,13 +883,14 @@
                 <h5 class="black-text-text">Hi There!</h5>
                 <p class="white-text text-lighten-4">
                     Did you find any potential up there or error.<br>
-                    Your feedback will help me grow more.
+                    please let me know even if see a mistake. <br>
+                    Your feedback can help me grow more.
                 </p>
             </div>
             <div class="col l3 s12">
                 <h5>Contact</h5>
                 <ul>
-                    <li><a class="white-text" href="mailto:info.radean.xyz?cc=radeanf@gmail.com" target="_top">info@radean.xyz</a></li>
+                    <li><a class="white-text" href="mailto:info.radean.xyz?cc=radeanf@gmail.com" target="_top">radeanf@gmail.com</a></li>
                     <li><a class="white-text" >Tel: +92 313 2361722</a></li>
                     <li><a class="white-text" href="#!">Karachi, Pakistan</a></li>
                 </ul>
@@ -821,7 +907,7 @@
     </div>
     <div class="footer-copyright grey darken-3">
         <div class="container">
-            Made by <a class="brown-text text-lighten-3">Wajahat Mughal</a><a href="#!" class=" white-text right"> ver .1.33 @ 2018</a>
+            Made by <a class="brown-text text-lighten-3">Wajahat Mughal</a><a href="#!" class=" white-text right"> ver .1.42 @ 2018</a>
         </div>
     </div>
     <div class="footer-copyright grey darken-4">
