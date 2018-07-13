@@ -1,11 +1,3 @@
-<?php
-/**
- * Created by radeanf@gmail.com
- * User: VisionVr
- * Date: 10/7/2017
- * Time: 4:24 PM
- */
-?>
 <!DOCTYPE html>
 <html>
 <head>
@@ -23,7 +15,7 @@
     <!--Let browser know website is optimized for mobile-->
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 
-    <title>Wajahat Mughal</title>
+    <title>WM - Portfolio</title>
     <!-- CSS  -->
     <link href="css/aos.css" rel="stylesheet">
     <link href="css/main.css" rel="stylesheet">
@@ -47,7 +39,7 @@
             <div class="row center " style="margin-top: 26%" >
                 <h1 class="center white-text text-darken-3 text-shadow" data-aos="fade-up">Welcome</h1>
                 <h3 class="center white-text text-darken-3 text-shadow" data-aos="fade-up">I am Wajahat Mughal</h3>
-                <h5 class="header center light white-text text-darken-3 text-shadow" data-aos="fade-up" data-aos-delay="200">3D Game Artist & Web Developer</h5><br><br>
+                <h5 class="header center light white-text text-darken-3 text-shadow" data-aos="fade-up" data-aos-delay="200">Creative Technology</h5><br><br>
             </div>
             <div class="row center" >
                 <a data-scroll data-aos="fade-up" data-aos-delay="100" href="#portfolio" id="download-button" class="btn waves-effect waves-light blue lighten-1" style="margin: 3px;"><i class="tiny material-icons left">book</i>Portfolio</a><br>
@@ -66,12 +58,10 @@
         <!--   Icon Section   -->
         <div class="row">
             <div class="col s12 m12 l12" align="center">
-<!--                    <img id="pinimg" src="img/base.png" alt="RADPIC" width="160" data-aos="zoom-in-right"/>-->
+<!--            <img id="pinimg" src="img/base.png" alt="RADPIC" width="160" data-aos="zoom-in-right"/>-->
                 <h5><strong>ABOUT ME</strong></h5><hr id="hr-2" style="width: 300px;">
-                I have always been a video game enthusiast, in the past few years I have been working on VR Development
-                which fascinate me the most. I have also improved my programming skills in various web development languages and frameworks along with 3D skills.
-                I have 3+ years of experience in VR Designing & Development, More than 6+ years in 3D Generalist, Front-end web development and [UX-UI] Development.
-                I am looking for a great opportunity where i can grow my skills even more and challenge myself to take best out of me.
+                I have always been a technology enthusiast, in the past few years I have been working on difference technologies including VR, Web Application Development, 3D Designing, solution development
+                I am looking for a challenges and rewarding opportunity.
                 And also i am very eager to learn new technologies and techniques,
                 currently working in Karachi but open to relocate.
                 <br>
@@ -79,9 +69,9 @@
         </div>
         <div class="row">
             <div class="col s12 m12 l12" align="center">
-                <!--                    <img id="pinimg" src="img/base.png" alt="RADPIC" width="160" data-aos="zoom-in-right"/> -->
-<!--                <h5><strong>WHAT I DO & CAN DO</strong></h5><hr style="width: 300px;">-->
-                    <h5>Please have a look on my skills & portfolio.    </h5>
+<!--                <img id="pinimg" src="img/base.png" alt="RADPIC" width="160" data-aos="zoom-in-right"/> -->
+<!--                <h5><strong>WHAT I DO & CAN DO</strong></h5><hr style="width: 300px;"> -->
+                    <h5>Please have a look at my skills & work.</h5>
                 <br>
             </div>
         </div>
@@ -437,17 +427,17 @@
                 </a>
             </div>
             <div class="grid-item">
-                <a href="img/portfolio/dragunov/dragunov-002.png" data-lightbox="dragunov" data-title="Textured Low-poly Model">
+                <a href="img/portfolio/dragunov/dragunov-003.png" data-lightbox="dragunov" data-title="Textured Low-poly Model">
                    <img src="img/portfolio/dragunov/dragunov-003.png" />
                 </a>
             </div>
             <div class="grid-item">
-                <a href="img/portfolio/dragunov/dragunov-002.png" data-lightbox="dragunov" data-title="Textured Low-poly Model">
+                <a href="img/portfolio/dragunov/dragunov-004.png" data-lightbox="dragunov" data-title="Textured Low-poly Model">
                     <img src="img/portfolio/dragunov/dragunov-004.png" />
                 </a>
             </div>
             <div class="grid-item">
-                <a href="img/portfolio/dragunov/dragunov-002.png" data-lightbox="dragunov" data-title="Textured Low-poly Model">
+                <a href="img/portfolio/dragunov/dragunov-005.png" data-lightbox="dragunov" data-title="Textured Low-poly Model">
                     <img src="img/portfolio/dragunov/dragunov-005.png" />
                 </a>
             </div>
@@ -634,7 +624,9 @@
         <hr class="left" style="width: 140px;"><br>
         Vending Machine is one of the greatest interactive user experience of our company that gave end user options of choosing favorite topping flavor.
         This is developed on Construct 2 platform for Android & Google Web store.
-        I developed it from start to end and finished it 3 days before deadline. <br> <strong>Please have a look at 3D Animation below.</strong>
+        I developed it from start to end and finished it 3 days before deadline. <br>
+        <a href="https://github.com/radean/TucTizer" class="blue-grey-text">Github Construct 2 Repo</a> <br>
+        <strong>Please have a look at 3D Animation below.</strong>
         <div class="col s12 l12 left">
             <iframe src="https://player.vimeo.com/video/272310268" width="240" height="140" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
@@ -697,6 +689,13 @@
         BAMS is a real-time on-field staff reporting system that control B.A entries and their performance.
         It is currently being used by Emborg? Mall activation across Pakistan and yield very good reports so far.
         I developed it in Vue.js one of the most rapid development framework, Vuetify for UI, Figma for UX, Firebase for real-time Data.
+        I developed two different solution BAMSNode[Client Side] & BAMSNexus[Admin side].
+        <br>
+        <h6>Challenges</h6>
+        I had a very short period of time to complete BAMS plus there are 120+ SKUs of Emborg™.
+        Frequent internet issue in karachi it was important to make it offline-supporte
+        <a href="https://github.com/radean/EmborgBAMS" class="blue-grey-text">Github PWA App</a> <br>
+        <a href="https://github.com/radean/EmborgNexus" class="blue-grey-text">Github Admin Side</a> <br>
     </div>
     <div class="col s12 m3 l3 left">
         <h5>Softwares Used</h5>
