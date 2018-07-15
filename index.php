@@ -42,7 +42,7 @@
     <br><br>
     <div class="section no-pad-bot" >
         <div id="particles-js" style="position: absolute; z-index: 1; width: 100%" ></div>
-        <div class="container " >
+        <div class="container" >
             <br><br>
             <div class="row center " style="margin-top: 26%" >
                 <h1 class="center white-text text-darken-3 text-shadow" data-aos="fade-up">Welcome</h1>
@@ -712,44 +712,44 @@
 </div>
 
 <!--Other Projects-->
-<!--<div class="row">-->
-<!--    <div class="col s12 m12 l12">-->
-<!--        <div class="grid" >-->
-<!--            <div class="grid-sizer"></div>-->
-<!--            <div class="grid-item">-->
-<!--                <a href="img/portfolio/bams/authorization.JPG" data-lightbox="bams" data-title="BAMS Admin Dashboard Authorization">-->
-<!--                    <img src="img/portfolio/bams/authorization.JPG" />-->
-<!--                </a>-->
-<!--            </div>-->
-<!--            <div class="grid-item">-->
-<!--                <a href="img/portfolio/bams/mobileAuth.JPG" data-lightbox="bams" data-title="BAMS Nodes side Authorization">-->
-<!--                    <img src="img/portfolio/bams/mobileAuth.JPG" />-->
-<!--                </a>-->
-<!--            </div>-->
-<!---->
-<!--            <div class="grid-item">-->
-<!--                <a href="img/portfolio/bams/reports.JPG" data-lightbox="bams" data-title="BAMS Admin Report Panel">-->
-<!--                    <img src="img/portfolio/bams/reports.JPG" />-->
-<!--                </a>-->
-<!--            </div>-->
-<!--            <div class="grid-item">-->
-<!--                <a href="img/portfolio/bams/selection.JPG" data-lightbox="bams" data-title="BAMS Nodes side Submission Form ">-->
-<!--                    <img src="img/portfolio/bams/selection.JPG" />-->
-<!--                </a>-->
-<!--            </div>-->
-<!--            <div class="grid-item">-->
-<!--                <a href="img/portfolio/bams/itemSelection.JPG" data-lightbox="bams" data-title="BAMS Nodes side SKU Selector">-->
-<!--                    <img src="img/portfolio/bams/itemSelection.JPG" />-->
-<!--                </a>-->
-<!--            </div>-->
-<!--            <div class="grid-item">-->
-<!--                <a href="img/portfolio/bams/dashboard.JPG" data-lightbox="bams" data-title="BAMS Admin Dashboard">-->
-<!--                    <img src="img/portfolio/bams/dashboard.JPG" />-->
-<!--                </a>-->
-<!--            </div>-->
-<!--        </div>-->
-<!--    </div>-->
-<!--</div>-->
+<div class="row">
+    <div class="col s12 m12 l12">
+        <div class="gridOther" >
+            <div class="grid-sizer-other"></div>
+            <div class="grid-item-other">
+                <a href="img/portfolio/bams/authorization.JPG" data-lightbox="bams" data-title="BAMS Admin Dashboard Authorization">
+                    <img src="img/portfolio/bams/authorization.JPG" />
+                </a>
+            </div>
+            <div class="grid-item-other">
+                <a href="img/portfolio/bams/mobileAuth.JPG" data-lightbox="bams" data-title="BAMS Nodes side Authorization">
+                    <img src="img/portfolio/bams/mobileAuth.JPG" />
+                </a>
+            </div>
+
+            <div class="grid-item-other">
+                <a href="img/portfolio/bams/reports.JPG" data-lightbox="bams" data-title="BAMS Admin Report Panel">
+                    <img src="img/portfolio/bams/reports.JPG" />
+                </a>
+            </div>
+            <div class="grid-item-other">
+                <a href="img/portfolio/bams/selection.JPG" data-lightbox="bams" data-title="BAMS Nodes side Submission Form ">
+                    <img src="img/portfolio/bams/selection.JPG" />
+                </a>
+            </div>
+            <div class="grid-item-other">
+                <a href="img/portfolio/bams/itemSelection.JPG" data-lightbox="bams" data-title="BAMS Nodes side SKU Selector">
+                    <img src="img/portfolio/bams/itemSelection.JPG" />
+                </a>
+            </div>
+            <div class="grid-item-other">
+                <a href="img/portfolio/bams/dashboard.JPG" data-lightbox="bams" data-title="BAMS Admin Dashboard">
+                    <img src="img/portfolio/bams/dashboard.JPG" />
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
 
 <!--========================================-->
 <!--E  X  P  E  R  I  E  N  C  E-->
@@ -951,11 +951,19 @@
         percentPosition: true,
         columnWidth: '.grid-sizer'
     });
+//    Masonry Initialize
+    var $gridOther = $('.gridOther').masonry({
+        itemSelector: '.grid-item-other',
+        percentPosition: true,
+        columnWidth: '.grid-sizer-other'
+    });
     // layout Masonry after each image loads
     $grid.imagesLoaded().progress( function() {
         $grid.masonry();
     });
-
+    $gridOther.imagesLoaded().progress( function() {
+        $gridOther.masonry();
+    });
 
 
     // Animate on scroll
