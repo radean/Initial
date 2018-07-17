@@ -89,6 +89,22 @@ body::-webkit-scrollbar-thumb {
 }
 
 
+.grid-sizer-other,
+.grid-item-other {
+    width: 20%;
+    padding: 1.5%;
+}
+
+.grid-item-other {
+    float: left;
+}
+
+.grid-item-other img {
+    display: block;
+    max-width: 100%;
+}
+
+
 /* Custom Stylesheet */
 /**
  * Use this file to override Materialize files so you can update
