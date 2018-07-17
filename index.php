@@ -713,54 +713,52 @@
 <!--Other Projects-->
 <!--ShowReel VR-->
 <div class="row center hide-on-small-only" style="background-color: #333" id="portfolio">
-    <div class="col s12 l12 left">
-        <iframe src="https://player.vimeo.com/video/119261068?color=00ffcc&title=0&byline=0&portrait=0" width="480" height="320" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-    </div>
+
     <div class="col s12 l4 offset-l4">
         <h5>Other Projects</h5>
         <hr style="width: 140px;"><br>
         <!--Content Required-->
         My Previous Work on all Technologies.
     </div>
-</div>
+    <div class="row">
+        <div class="col s12 m12 l12">
+            <div class="gridOther" >
+                <div class="grid-sizer-other"></div>
+                <div class="grid-item-other">
+                    <a href="img/portfolio/bams/authorization.JPG" data-lightbox="bams" data-title="BAMS Admin Dashboard Authorization">
+                        <img src="img/portfolio/bams/authorization.JPG" />
+                    </a>
+                </div>
+                <div class="grid-item-other">
+                    <a href="img/portfolio/bams/mobileAuth.JPG" data-lightbox="bams" data-title="BAMS Nodes side Authorization">
+                        <img src="img/portfolio/bams/mobileAuth.JPG" />
+                    </a>
+                </div>
 
-<div class="row">
-    <div class="col s12 m12 l12">
-        <div class="gridOther" >
-            <div class="grid-sizer-other"></div>
-            <div class="grid-item-other">
-                <a href="img/portfolio/bams/authorization.JPG" data-lightbox="bams" data-title="BAMS Admin Dashboard Authorization">
-                    <img src="img/portfolio/bams/authorization.JPG" />
-                </a>
-            </div>
-            <div class="grid-item-other">
-                <a href="img/portfolio/bams/mobileAuth.JPG" data-lightbox="bams" data-title="BAMS Nodes side Authorization">
-                    <img src="img/portfolio/bams/mobileAuth.JPG" />
-                </a>
-            </div>
-
-            <div class="grid-item-other">
-                <a href="img/portfolio/bams/reports.JPG" data-lightbox="bams" data-title="BAMS Admin Report Panel">
-                    <img src="img/portfolio/bams/reports.JPG" />
-                </a>
-            </div>
-            <div class="grid-item-other">
-                <a href="img/portfolio/bams/selection.JPG" data-lightbox="bams" data-title="BAMS Nodes side Submission Form ">
-                    <img src="img/portfolio/bams/selection.JPG" />
-                </a>
-            </div>
-            <div class="grid-item-other">
-                <a href="img/portfolio/bams/itemSelection.JPG" data-lightbox="bams" data-title="BAMS Nodes side SKU Selector">
-                    <img src="img/portfolio/bams/itemSelection.JPG" />
-                </a>
-            </div>
-            <div class="grid-item-other">
-                <a href="img/portfolio/bams/dashboard.JPG" data-lightbox="bams" data-title="BAMS Admin Dashboard">
-                    <img src="img/portfolio/bams/dashboard.JPG" />
-                </a>
+                <div class="grid-item-other">
+                    <a href="img/portfolio/bams/reports.JPG" data-lightbox="bams" data-title="BAMS Admin Report Panel">
+                        <img src="img/portfolio/bams/reports.JPG" />
+                    </a>
+                </div>
+                <div class="grid-item-other">
+                    <a href="img/portfolio/bams/selection.JPG" data-lightbox="bams" data-title="BAMS Nodes side Submission Form ">
+                        <img src="img/portfolio/bams/selection.JPG" />
+                    </a>
+                </div>
+                <div class="grid-item-other">
+                    <a href="img/portfolio/bams/itemSelection.JPG" data-lightbox="bams" data-title="BAMS Nodes side SKU Selector">
+                        <img src="img/portfolio/bams/itemSelection.JPG" />
+                    </a>
+                </div>
+                <div class="grid-item-other">
+                    <a href="img/portfolio/bams/dashboard.JPG" data-lightbox="bams" data-title="BAMS Admin Dashboard">
+                        <img src="img/portfolio/bams/dashboard.JPG" />
+                    </a>
+                </div>
             </div>
         </div>
     </div>
+
 </div>
 
 <!--========================================-->
