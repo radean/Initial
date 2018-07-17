@@ -30,6 +30,14 @@
 <!-- Masonry -->
 </head>
 <body class="grey darken-4 grey-text text-lighten-2">
+<!--Preloader-->
+<div id="preloader">
+    <div class="center ">
+        Will Take a while to load, <br>
+        Thanks to Large amount of images uploaded.
+    </div>
+</div>
+<!--Preloader End-->
 <div id="index-banner" class="parallax-container" data-parallax="scroll" data-image-src="img/back/background1.jpg">
     <br><br>
     <div class="section no-pad-bot" >
@@ -39,7 +47,7 @@
             <div class="row center " style="margin-top: 26%" >
                 <h1 class="center white-text text-darken-3 text-shadow" data-aos="fade-up">Welcome</h1>
                 <h3 class="center white-text text-darken-3 text-shadow" data-aos="fade-up">I am Wajahat Mughal</h3>
-                <h5 class="header center light white-text text-darken-3 text-shadow" data-aos="fade-up" data-aos-delay="200">Creative Technology</h5><br><br>
+                <h5 class="header center light white-text text-darken-3 text-shadow" data-aos="fade-up" data-aos-delay="200">Creative Technologist</h5><br><br>
             </div>
             <div class="row center" >
                 <a data-scroll data-aos="fade-up" data-aos-delay="100" href="#portfolio" id="download-button" class="btn waves-effect waves-light blue lighten-1" style="margin: 3px;"><i class="tiny material-icons left">book</i>Portfolio</a><br>
@@ -688,12 +696,12 @@
         <hr class="left" style="width: 120px;"><br>
         BAMS is a real-time on-field staff reporting system that control B.A entries and their performance.
         It is currently being used by Emborg? Mall activation across Pakistan and yield very good reports so far.
-        I developed it in Vue.js one of the most rapid development framework, Vuetify for UI, Figma for UX, Firebase for real-time Data.
+        I developed it in Vue.js one of the most rapid development framework, Vuetify for UI, Figma for UX Design, Firebase for real-time Data.
         I developed two different solution BAMSNode[Client Side] & BAMSNexus[Admin side].
         <br>
         <h6>Challenges</h6>
         I had a very short period of time to complete BAMS plus there are 120+ SKUs of Emborg™.
-        Frequent internet issue in karachi it was important to make it offline-supporte
+        Frequent internet issue in karachi it was important to make it offline-support. <br>
         <a href="https://github.com/radean/EmborgBAMS" class="blue-grey-text">Github PWA App</a> <br>
         <a href="https://github.com/radean/EmborgNexus" class="blue-grey-text">Github Admin Side</a> <br>
     </div>
@@ -723,41 +731,57 @@
         <div class="gridOther" >
             <div class="grid-sizer-other"></div>
             <div class="grid-item-other">
-                <a href="img/portfolio/bams/authorization.JPG" data-lightbox="bams" data-title="BAMS Admin Dashboard Authorization">
-                    <img src="img/portfolio/bams/authorization.JPG" />
+                <a href="img/portfolio/misc/1.jpg" data-lightbox="Misc" data-title="Misc Design">
+                    <img src="img/portfolio/misc/1.jpg" />
                 </a>
             </div>
             <div class="grid-item-other">
-                <a href="img/portfolio/bams/mobileAuth.JPG" data-lightbox="bams" data-title="BAMS Nodes side Authorization">
-                    <img src="img/portfolio/bams/mobileAuth.JPG" />
+                <a href="img/portfolio/misc/2.jpg" data-lightbox="Misc" data-title="Misc Design">
+                    <img src="img/portfolio/misc/2.jpg" />
                 </a>
             </div>
-
-                <div class="grid-item-other">
-                    <a href="img/portfolio/bams/reports.JPG" data-lightbox="bams" data-title="BAMS Admin Report Panel">
-                        <img src="img/portfolio/bams/reports.JPG" />
-                    </a>
-                </div>
-                <div class="grid-item-other">
-                    <a href="img/portfolio/bams/selection.JPG" data-lightbox="bams" data-title="BAMS Nodes side Submission Form ">
-                        <img src="img/portfolio/bams/selection.JPG" />
-                    </a>
-                </div>
-                <div class="grid-item-other">
-                    <a href="img/portfolio/bams/itemSelection.JPG" data-lightbox="bams" data-title="BAMS Nodes side SKU Selector">
-                        <img src="img/portfolio/bams/itemSelection.JPG" />
-                    </a>
-                </div>
-                <div class="grid-item-other">
-                    <a href="img/portfolio/bams/dashboard.JPG" data-lightbox="bams" data-title="BAMS Admin Dashboard">
-                        <img src="img/portfolio/bams/dashboard.JPG" />
-                    </a>
-                </div>
+            <div class="grid-item-other">
+                <a href="img/portfolio/misc/3.jpg" data-lightbox="Misc" data-title="Misc Design">
+                    <img src="img/portfolio/misc/3.jpg" />
+                </a>
             </div>
-
+            <div class="grid-item-other">
+                <a href="img/portfolio/misc/4.jpg" data-lightbox="Misc" data-title="Misc Design">
+                    <img src="img/portfolio/misc/4.jpg" />
+                </a>
+            </div>
+            <div class="grid-item-other">
+                <a href="img/portfolio/misc/5.jpg" data-lightbox="Misc" data-title="Misc Design">
+                    <img src="img/portfolio/misc/5.jpg" />
+                </a>
+            </div>
+            <div class="grid-item-other">
+                <a href="img/portfolio/misc/6.jpg" data-lightbox="Misc" data-title="Misc Design">
+                    <img src="img/portfolio/misc/6.jpg" />
+                </a>
+            </div>
+            <div class="grid-item-other">
+                <a href="img/portfolio/misc/7.jpg" data-lightbox="Misc" data-title="Misc Design">
+                    <img src="img/portfolio/misc/7.jpg" />
+                </a>
+            </div>
+            <div class="grid-item-other">
+                <a href="img/portfolio/misc/8.jpg" data-lightbox="Misc" data-title="Misc Design">
+                    <img src="img/portfolio/misc/8.jpg" />
+                </a>
+            </div>
+            <div class="grid-item-other">
+                <a href="img/portfolio/misc/9.jpg" data-lightbox="Misc" data-title="Misc Design">
+                    <img src="img/portfolio/misc/9.jpg" />
+                </a>
+            </div>
+            <div class="grid-item-other">
+                <a href="img/portfolio/misc/10.jpg" data-lightbox="Misc" data-title="Misc Design">
+                    <img src="img/portfolio/misc/10.jpg" />
+                </a>
+            </div>
         </div>
     </div>
-
 </div>
 
 <!--========================================-->
@@ -784,16 +808,15 @@
                 <div class="col s12 m5 l5 right" data-aos="fade-left" data-aos-delay="600">
                     <h5 class="right-align">Vision Direct Marketing</h5>
                     <h6 class="right-align" style="font-weight: 400;">Karachi, Sindh</h6>
-                    <h6 class="right-align" style="font-weight: 400;">Senior VR Artist & Developer - March 2015 - Present</h6>
+                    <h6 class="right-align" style="font-weight: 400;">Creative Technologist - March 2016 - Present</h6>
+<!--                    <h6 class="right-align">-->
+<!--                        Over Three years of experience in developing interactive media.-->
+<!--                    </h6>-->
                     <h6 class="right-align">
-                        Over Three years of experience in developing interactive media.
-                    </h6>
-                    <h6 class="right-align">
-                        ? Produced 3D content for VR applications.<br>
-                        ? Produced VR Experience.<br>
-                        ? Researched and Developed new technologies.<br>
-                        ? Developed UI & UX.<br>
-                        ? Developed web applications.<br>
+                        &diamondsuit; Designing & Development of VR Application.<br>
+                        &diamondsuit; Research and Create space new technologies in field.<br>
+                        &diamondsuit; Development of Websites and Web Application.<br>
+                        &diamondsuit; Development of UX.<br>
                     </h6>
                 </div>
             </div>
@@ -806,14 +829,14 @@
                     <h5>Jsun Technologies</h5>
                     <h6 style="font-weight: 400;">Karachi, Sindh</h6>
                     <h6 style="font-weight: 400;">Graphics Designer - Oct 2011 - Feb 2015</h6>
+<!--                    <h6>-->
+<!--                        Spearheaded for working on a range of projects, developing appealing websites,-->
+<!--                        Designing 3D models for architecture and Exhibition, 2D Artworks. I learn a lot here About Low & High Poly, Web Development and other graphics fundamentals.-->
+<!--                    </h6>-->
                     <h6>
-                        Spearheaded for working on a range of projects, developing appealing websites,
-                        Designing 3D models for architecture and Exhibition, 2D Artworks. I learn a lot here About Low & High Poly, Web Development and other graphics fundamentals.
-                    </h6>
-                    <h6>
-                        ? Making static websites & 3D Stands.<br>
-                        ? Designed UI & UX.<br>
-                        ? Designed Artworks for Promotions.<br>
+                        &diamondsuit; 3D Design for exhibition, Events, Simulations.<br>
+                        &diamondsuit; Designed UI & UX.<br>
+                        &diamondsuit; Development of Web Applications and UX.<br>
                     </h6>
                 </div>
             </div>
@@ -943,7 +966,15 @@
 <script type="application/javascript" src="js/lightbox.min.js"></script>
 <script type="application/javascript" src="js/parallax.min.js"></script>
 <script>
+    //    Preloader
+    jQuery(document).ready(function($) {
 
+    // site preloader -- also uncomment the div in the header and the css style for #preloader
+        $(window).load(function(){
+            $('#preloader').fadeOut('slow',function(){$(this).remove();});
+        });
+
+    });
     //Smooth Scroll
     var scroll = new SmoothScroll('a[href*="#"]');
 
