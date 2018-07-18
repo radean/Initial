@@ -3,7 +3,8 @@
 /* ==========================================================================
    R  A  D  E  A  N    C  S  S   S  T  Y  L  E
    ========================================================================= */
-
+#preloader { position: fixed; left: 0; top: 0; z-index: 999; width: 100%; height: 100%; overflow: visible; background: #333 url('http://files.mimoymima.com/images/loading.gif') no-repeat center center; }
+#preloader div {position: absolute; left: 40%; top: 40%;}
 /* ==========================================================================
     L  I  N  K   S  T  Y  L  E
    ========================================================================== */
@@ -91,8 +92,8 @@ body::-webkit-scrollbar-thumb {
 
 .grid-sizer-other,
 .grid-item-other {
-    width: 20%;
-    padding: 1.5%;
+    width: 16%;
+    padding: 0.6%;
 }
 
 .grid-item-other {
