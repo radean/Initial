@@ -34,7 +34,7 @@
 <div id="preloader">
     <div class="center ">
         Will Take a while to load, <br>
-        Thanks to Large amount of images uploaded.
+        Please reload if it is taking longer than 3min.
     </div>
 </div>
 <!--Preloader End-->
@@ -725,59 +725,130 @@
         <h5>Other Projects</h5>
         <hr style="width: 140px;"><br>
         <!--Content Required-->
+        Visit my <a href="https://github.com/radean"> <h5>Github</h5> </a> profile for development projects <br>
         My Previous Work on all Technologies.
     </div>
     <div class="col s12 m12 l12">
         <div class="gridOther" >
             <div class="grid-sizer-other"></div>
             <div class="grid-item-other">
-                <a href="img/portfolio/misc/1.jpg" data-lightbox="Misc" data-title="Misc Design">
+                <a href="img/portfolio/misc/1.jpg" data-lightbox="Misc" data-title="Play Setup Design">
                     <img src="img/portfolio/misc/1.jpg" />
                 </a>
             </div>
             <div class="grid-item-other">
-                <a href="img/portfolio/misc/2.jpg" data-lightbox="Misc" data-title="Misc Design">
+                <a href="img/portfolio/misc/2.jpg" data-lightbox="Misc" data-title="TUC Setup Design">
                     <img src="img/portfolio/misc/2.jpg" />
                 </a>
             </div>
             <div class="grid-item-other">
-                <a href="img/portfolio/misc/3.jpg" data-lightbox="Misc" data-title="Misc Design">
+                <a href="img/portfolio/misc/3.jpg" data-lightbox="Misc" data-title="YES Event Design">
                     <img src="img/portfolio/misc/3.jpg" />
                 </a>
             </div>
             <div class="grid-item-other">
-                <a href="img/portfolio/misc/4.jpg" data-lightbox="Misc" data-title="Misc Design">
+                <a href="img/portfolio/misc/4.jpg" data-lightbox="Misc" data-title="YES Event Design">
                     <img src="img/portfolio/misc/4.jpg" />
                 </a>
             </div>
             <div class="grid-item-other">
-                <a href="img/portfolio/misc/5.jpg" data-lightbox="Misc" data-title="Misc Design">
+                <a href="img/portfolio/misc/5.jpg" data-lightbox="Misc" data-title="YES Event Design">
                     <img src="img/portfolio/misc/5.jpg" />
                 </a>
             </div>
             <div class="grid-item-other">
-                <a href="img/portfolio/misc/6.jpg" data-lightbox="Misc" data-title="Misc Design">
+                <a href="img/portfolio/misc/6.jpg" data-lightbox="Misc" data-title="YES Event Design">
                     <img src="img/portfolio/misc/6.jpg" />
                 </a>
             </div>
             <div class="grid-item-other">
-                <a href="img/portfolio/misc/7.jpg" data-lightbox="Misc" data-title="Misc Design">
+                <a href="img/portfolio/misc/7.jpg" data-lightbox="Misc" data-title="TUC Setup Design">
                     <img src="img/portfolio/misc/7.jpg" />
                 </a>
             </div>
             <div class="grid-item-other">
-                <a href="img/portfolio/misc/8.jpg" data-lightbox="Misc" data-title="Misc Design">
+                <a href="img/portfolio/misc/8.jpg" data-lightbox="Misc" data-title="TUC Setup Design">
                     <img src="img/portfolio/misc/8.jpg" />
                 </a>
             </div>
             <div class="grid-item-other">
-                <a href="img/portfolio/misc/9.jpg" data-lightbox="Misc" data-title="Misc Design">
+                <a href="img/portfolio/misc/9.jpg" data-lightbox="Misc" data-title="AMRELI Steels Setup Design">
                     <img src="img/portfolio/misc/9.jpg" />
                 </a>
             </div>
             <div class="grid-item-other">
-                <a href="img/portfolio/misc/10.jpg" data-lightbox="Misc" data-title="Misc Design">
+                <a href="img/portfolio/misc/10.jpg" data-lightbox="Misc" data-title="Kurkure Interior Design">
                     <img src="img/portfolio/misc/10.jpg" />
+                </a>
+            </div>
+            <div class="grid-item-other">
+                <a href="img/portfolio/misc/11.jpg" data-lightbox="Misc" data-title="TUC Setup Design">
+                    <img src="img/portfolio/misc/11.jpg" />
+                </a>
+            </div>
+            <div class="grid-item-other">
+                <a href="img/portfolio/misc/12.jpg" data-lightbox="Misc" data-title="TUC Setup Design">
+                    <img src="img/portfolio/misc/12.jpg" />
+                </a>
+            </div>
+            <div class="grid-item-other">
+                <a href="img/portfolio/misc/13.jpg" data-lightbox="Misc" data-title="Bakeri Setup Design">
+                    <img src="img/portfolio/misc/13.jpg" />
+                </a>
+            </div>
+            <div class="grid-item-other">
+                <a href="img/portfolio/misc/14.jpg" data-lightbox="Misc" data-title="Web Design and Development visit : punjabibynature.ca">
+                    <img src="img/portfolio/misc/14.jpg" />
+                </a>
+            </div>
+            <div class="grid-item-other">
+                <a href="img/portfolio/misc/15.jpg" data-lightbox="Misc" data-title="KE UX Design">
+                    <img src="img/portfolio/misc/15.jpg" />
+                </a>
+            </div>
+            <div class="grid-item-other">
+                <a href="img/portfolio/misc/16.jpg" data-lightbox="Misc" data-title="K&Ns UX/UI Design">
+                    <img src="img/portfolio/misc/16.jpg" />
+                </a>
+            </div>
+            <div class="grid-item-other">
+                <a href="img/portfolio/misc/17.jpg" data-lightbox="Misc" data-title="K&Ns UX/UI Design">
+                    <img src="img/portfolio/misc/17.jpg" />
+                </a>
+            </div>
+            <div class="grid-item-other">
+                <a href="img/portfolio/misc/18.jpg" data-lightbox="Misc" data-title="K&Ns UX/UI Design">
+                    <img src="img/portfolio/misc/18.jpg" />
+                </a>
+            </div>
+            <div class="grid-item-other">
+                <a href="img/portfolio/misc/19.jpg" data-lightbox="Misc" data-title="K&Ns UX/UI Design">
+                    <img src="img/portfolio/misc/19.jpg" />
+                </a>
+            </div>
+            <div class="grid-item-other">
+                <a href="img/portfolio/misc/20.jpg" data-lightbox="Misc" data-title="Amreli steels Design">
+                    <img src="img/portfolio/misc/20.jpg" />
+                </a>
+            </div>
+            <div class="grid-item-other">
+                <a href="img/portfolio/misc/21.jpg" data-lightbox="Misc" data-title="Amreli steels Design">
+                    <img src="img/portfolio/misc/21.jpg" />
+                </a>
+            </div>
+            <div class="grid-item-other">
+                <a href="img/portfolio/misc/22.jpg" data-lightbox="Misc" data-title="VDM Website">
+                    <img src="img/portfolio/misc/22Thumb.jpg" />
+                </a>
+            </div>
+            <div class="grid-item-other">
+                <a href="img/portfolio/misc/23.jpg" data-lightbox="Misc" data-title="ABSA Website">
+                    <img src="img/portfolio/misc/23Thumb.jpg" />
+                </a>
+            </div>
+            <div class="grid-item-other">
+                <a href="img/portfolio/misc/24.jpg" data-lightbox="Misc" data-title="Digigon Website">
+                    <img src="img/portfolio/misc/24Thumb.jpg" />
                 </a>
             </div>
         </div>
