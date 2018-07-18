@@ -362,14 +362,20 @@
     </div>
 </div>
 <!--Z3MF-->
-<div class="row center" id="portfolio">
-    <div class="col s12 l12 left" >
-        <iframe src="mm/Z3mf.html" frameborder="0" webkitallowfullscreen mozallowfullscreen scrolling="no" style="overflow-y: hidden; width:75%;" allowfullscreen height="600"></iframe>
-    </div>
-</div>
+<!--<div class="row center" id="portfolio">-->
+<!--    <div class="col s12 l12 left" >-->
+<!--        <iframe src="mm/Z3mf.html" frameborder="0" webkitallowfullscreen mozallowfullscreen scrolling="no" style="overflow-y: hidden; width:50%;" allowfullscreen height="480"></iframe>-->
+<!--    </div>-->
+<!--</div>-->
 <!--Z3MF Details-->
 <div class="row">
-    <div class="col s12 m4 l4 left">
+    <div class="col s12 m6 l6 left">
+        <h5>Z3MF - Assault Rifle</h5>
+        <h6>Duration: 32 Hours</h6>
+        <hr class="left" style="width: 140px;"><br>
+
+        Z3MF is an automatic assault rifle. The Z3MF is a 5.56?45mm NATO, air-cooled, direct impingement gas-operated, magazine-fed.
+        It has a 26 inch barrel and a iron-sight stock. It also has a grenade launcher which fires 40mm x 46 HEPD-SD M99 (Point Detonating) grenade.
         <div class="grid" >
             <div class="grid-sizer"></div>
             <div class="grid-item">
@@ -399,34 +405,41 @@
             </div>
         </div>
     </div>
-    <div class="col s12 m5 l5 left">
-        <h5>Z3MF - Assault Rifle</h5>
-        <h6>Duration: 32 Hours</h6>
-        <hr class="left" style="width: 140px;"><br>
-
-        Z3MF is an automatic assault rifle. The Z3MF is a 5.56?45mm NATO, air-cooled, direct impingement gas-operated, magazine-fed.
-        It has a 26 inch barrel and a iron-sight stock. It also has a grenade launcher which fires 40mm x 46 HEPD-SD M99 (Point Detonating) grenade.
-    </div>
-    <div class="col s12 m3 l3 left">
-        <h5>Softwares Used</h5>
+<!--    <div class="col s12 m3 l3 left">-->
+<!--        <h5>Z3MF - Assault Rifle</h5>-->
+<!--        <h6>Duration: 32 Hours</h6>-->
+<!--        <hr class="left" style="width: 140px;"><br>-->
+<!---->
+<!--        Z3MF is an automatic assault rifle. The Z3MF is a 5.56?45mm NATO, air-cooled, direct impingement gas-operated, magazine-fed.-->
+<!--        It has a 26 inch barrel and a iron-sight stock. It also has a grenade launcher which fires 40mm x 46 HEPD-SD M99 (Point Detonating) grenade.-->
+<!--    </div>-->
+    <div class="col s12 m6 l6 left">
+        <h5>Interactive Model</h5>
         <hr class="left" style="width: 140px;"><br>
         <div class="row">
-            <div class="col s4 m4 l4 center"><img width="32" src="img/icon/soft/3dsmax.png" /><h6 class="light">3Ds Max</h6><br></div>
-            <div class="col s4 m4 l4 center"><img width="32" src="img/icon/soft/substance.png" /><h6 class="light">Substance Painter</h6><br></div>
-            <div class="col s4 m4 l4 center"><img width="32" src="img/icon/soft/cc.png" /><h6 class="light">AdobeSuite</h6><br></div>
+                <iframe src="mm/Z3mf.html" frameborder="0" webkitallowfullscreen mozallowfullscreen scrolling="no" style="overflow-y: hidden; width:100%;" allowfullscreen height="480"></iframe>
+<!--            <div class="col s4 m4 l4 center"><img width="32" src="img/icon/soft/3dsmax.png" /><h6 class="light">3Ds Max</h6><br></div>-->
+<!--            <div class="col s4 m4 l4 center"><img width="32" src="img/icon/soft/substance.png" /><h6 class="light">Substance Painter</h6><br></div>-->
+<!--            <div class="col s4 m4 l4 center"><img width="32" src="img/icon/soft/cc.png" /><h6 class="light">AdobeSuite</h6><br></div>-->
         </div>
     </div>
 </div>
 
 <!--Dragunov-->
-<div class="row center " id="portfolio">
-    <div class="col s12 l12 left" >
-        <iframe src="mm/dragunov.html" frameborder="0" webkitallowfullscreen mozallowfullscreen scrolling="no" style="overflow-y: hidden; width:75%; margin: 0 100px" allowfullscreen height="600" ></iframe>
-    </div>
-</div>
+<!--<div class="row center " id="portfolio">-->
+<!--    <div class="col s12 l12 left" >-->
+<!---->
+<!--    </div>-->
+<!--</div>-->
 <!--Dragunov Details-->
 <div class="row">
-    <div class="col s12 m4 l4 left">
+    <div class="col s12 m6 l6 left">
+        <h5>Dragunov SVD - Sniper Rifle</h5>
+        <h6>Duration: 38 Hours</h6>
+        <hr class="left" style="width: 140px;"><br>
+        Dragunov SVD is a semi-automatic sniper/designated marksman rifle chambered in 7.62x54mmR.
+        <br>
+        <br>
         <div class="grid" >
             <div class="grid-sizer"></div>
             <div class="grid-item">
@@ -451,19 +464,20 @@
             </div>
         </div>
     </div>
-    <div class="col s12 m5 l5 left">
-        <h5>Dragunov SVD - Sniper Rifle</h5>
-        <h6>Duration: 38 Hours</h6>
-        <hr class="left" style="width: 140px;"><br>
-            Dragunov SVD is a semi-automatic sniper/designated marksman rifle chambered in 7.62?54mmR.
-        </div>
-    <div class="col s12 m3 l3 left">
-        <h5>Softwares Used</h5>
+<!--    <div class="col s12 m3 l3 left">-->
+<!--        <h5>Dragunov SVD - Sniper Rifle</h5>-->
+<!--        <h6>Duration: 38 Hours</h6>-->
+<!--        <hr class="left" style="width: 140px;"><br>-->
+<!--            Dragunov SVD is a semi-automatic sniper/designated marksman rifle chambered in 7.62x54mmR.-->
+<!--    </div>-->
+    <div class="col s12 m6 l6 left">
+        <h5>Interactive Model</h5>
         <hr class="left" style="width: 140px;"><br>
         <div class="row">
-            <div class="col s4 m4 l4 center"><img width="32" src="img/icon/soft/3dsmax.png" /><h6 class="light">3Ds Max</h6><br></div>
-            <div class="col s4 m4 l4 center"><img width="32" src="img/icon/soft/substance.png" /><h6 class="light">Substance Painter</h6><br></div>
-            <div class="col s4 m4 l4 center"><img width="32" src="img/icon/soft/cc.png" /><h6 class="light">AdobeSuite</h6><br></div>
+            <iframe src="mm/dragunov.html" frameborder="0" webkitallowfullscreen mozallowfullscreen scrolling="no" style="overflow-y: hidden; width:100%;" allowfullscreen height="480" ></iframe>
+<!--            <div class="col s4 m4 l4 center"><img width="32" src="img/icon/soft/3dsmax.png" /><h6 class="light">3Ds Max</h6><br></div>-->
+<!--            <div class="col s4 m4 l4 center"><img width="32" src="img/icon/soft/substance.png" /><h6 class="light">Substance Painter</h6><br></div>-->
+<!--            <div class="col s4 m4 l4 center"><img width="32" src="img/icon/soft/cc.png" /><h6 class="light">AdobeSuite</h6><br></div>-->
         </div>
     </div>
 </div>
@@ -475,9 +489,9 @@
 
 
 <!--ShowReel VR-->
-<div class="row center hide-on-small-only" style="background-color: #333" id="portfolio">
+<div class="row center hide-on-small-only"  id="portfolio">
     <div class="col s12 l12 left">
-        <iframe src="https://player.vimeo.com/video/119261068?color=00ffcc&title=0&byline=0&portrait=0" width="480" height="320" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+        <iframe src="https://player.vimeo.com/video/119261068?color=00ffcc&title=0&byline=0&portrait=0" width="600" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
     </div>
     <div class="col s12 l4 offset-l4">
         <h5>VR Showreel</h5>
@@ -487,7 +501,7 @@
     </div>
 </div>
 <!--Prince VR-->
-<div class="row" style="background-color: #333">
+<div class="row" >
     <div class="col s12 m4 l4 left">
         <div class="grid" >
             <div class="grid-sizer"></div>
@@ -524,10 +538,10 @@
         </div>
     </div>
     <div class="col s12 m5 l5 left">
-        <h5>CBL PRINCE? VR </h5>
+        <h5>CBL PRINCE&trade; VR </h5>
         <h6>Project Duration : 2 Months</h6>
         <hr class="left" style="width: 140px;"><br>
-        CBL Prince? VR Experience developed for Mall Activation in Karachi. All content from 3D Modelling to UE4 cooking process done by me.
+        CBL Prince&trade; VR Experience developed for Mall Activation in Karachi. All content from 3D Modelling to UE4 cooking process done by me.
     </div>
     <div class="col s12 m3 l3 left">
         <h5>Softwares Used</h5>
@@ -543,7 +557,7 @@
     </div>
 </div   >
 <!--TUC VR Ride-->
-<div class="row" style="background-color: #333">
+<div class="row">
     <div class="col s12 m4 l4 left">
         <div class="grid" >
             <div class="grid-sizer"></div>
@@ -569,7 +583,7 @@
             </div>
             <div class="grid-item">
                 <a href="img/portfolio/tucVR/5.png" data-lightbox="prince" data-title="Prince VR Experience">
-                    <img src="img/portfolio/tucVR/5.png" />
+                    <img 6src="img/portfolio/tucVR/5.png" />
                 </a>
             </div><div class="grid-item">
                 <a href="img/portfolio/tucVR/6.png" data-lightbox="prince" data-title="Prince VR Experience">
@@ -584,10 +598,11 @@
         </div>
     </div>
     <div class="col s12 m5 l5 left">
-        <h5>CBL TUC? VR RIDE</h5>
+        <h5>CBL TUC&trade; VR RIDE</h5>
         <h6>Project Duration : 1 Month</h6>
         <hr class="left" style="width: 140px;"><br>
-        TUC VR Ride is a VR experience developed for TUC LU?.
+        TUC VR Ride is a VR experience developed for TUC LU. I developed it for an BTL activation,
+        Everything in this project was developand designed by me
     </div>
     <div class="col s12 m3 l3 left">
         <h5>Softwares Used</h5>
@@ -627,7 +642,7 @@
         </div>
     </div>
     <div class="col s12 m5 l5 left">
-        <h5>CBL TUC? Vending Machine</h5>
+        <h5>CBL TUC&trade; Vending Machine</h5>
         <h6>Project Duration : 10 Days</h6>
         <hr class="left" style="width: 140px;"><br>
         Vending Machine is one of the greatest interactive user experience of our company that gave end user options of choosing favorite topping flavor.
@@ -719,23 +734,17 @@
 </div>
 
 <!--Other Projects-->
-<!--ShowReel VR-->
 <div class="row center hide-on-small-only" style="background-color: #262626" id="portfolio">
     <div class="col s12 l4 offset-l4">
         <h5>Other Projects</h5>
         <hr style="width: 140px;"><br>
         <!--Content Required-->
-        Visit my <a href="https://github.com/radean"> <h5>Github</h5> </a> profile for development projects <br>
+        Please visit my <a href="https://github.com/radean"> <span style="font-size: large; color: yellow">Github</span> </a> profile for development projects <br>
         My Previous Work on all Technologies.
     </div>
     <div class="col s12 m12 l12">
         <div class="gridOther" >
             <div class="grid-sizer-other"></div>
-            <div class="grid-item-other">
-                <a href="img/portfolio/misc/1.jpg" data-lightbox="Misc" data-title="Play Setup Design">
-                    <img src="img/portfolio/misc/1.jpg" />
-                </a>
-            </div>
             <div class="grid-item-other">
                 <a href="img/portfolio/misc/2.jpg" data-lightbox="Misc" data-title="TUC Setup Design">
                     <img src="img/portfolio/misc/2.jpg" />
@@ -851,6 +860,7 @@
                     <img src="img/portfolio/misc/24Thumb.jpg" />
                 </a>
             </div>
+            <div class="shadow-inside"></div>
         </div>
     </div>
 </div>
@@ -1010,7 +1020,7 @@
     </div>
     <div class="footer-copyright grey darken-3">
         <div class="container">
-            Made by <a class="brown-text text-lighten-3">Wajahat Mughal</a><a href="#!" class=" white-text right"> ver .1.42 @ 2018</a>
+            Made by <a class="brown-text text-lighten-3">Wajahat Mughal</a><a href="#!" class=" white-text right"> ver .1.84 @ 2018</a>
         </div>
     </div>
     <div class="footer-copyright grey darken-4">
