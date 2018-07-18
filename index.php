@@ -373,9 +373,10 @@
         <h5>Z3MF - Assault Rifle</h5>
         <h6>Duration: 32 Hours</h6>
         <hr class="left" style="width: 140px;"><br>
-
         Z3MF is an automatic assault rifle. The Z3MF is a 5.56?45mm NATO, air-cooled, direct impingement gas-operated, magazine-fed.
         It has a 26 inch barrel and a iron-sight stock. It also has a grenade launcher which fires 40mm x 46 HEPD-SD M99 (Point Detonating) grenade.
+        <br>
+        <br>
         <div class="grid" >
             <div class="grid-sizer"></div>
             <div class="grid-item">
@@ -555,7 +556,7 @@
             <div class="col s4 m4 l4 center"><img width="32" src="img/icon/soft/Xn.png" /><h6 class="light">XNormal</h6><br></div>
         </div>
     </div>
-</div   >
+</div>
 <!--TUC VR Ride-->
 <div class="row">
     <div class="col s12 m4 l4 left">
